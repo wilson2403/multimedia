@@ -1,0 +1,3273 @@
+{
+  "chats": {
+    "12afc86f-ab58-4719-8fa5-594c295ae444-1772937951489": {
+      "messages": [
+        {
+          "content": "¡Buenas noches!",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "¡Hola! Bienvenido a Nitro Gas CR. ¿En qué puedo ayudarte hoy? Ofrecemos servicios de cambio de cilindro residencial, instalación y revisión de gas, y suministro de gas para empresas."
+        },
+        {
+          "content": "¿Trabajan a esta hora?",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "¡Sí, claro! Ofrecemos Servicio Expreso 24/7. ¿Necesitas un cambio de cilindro, una instalación o tienes alguna emergencia?"
+        },
+        {
+          "content": "Sí, necesito cambiar un cilindro de gas con válvula.",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "Perfecto. Para poder ayudarte mejor y darte una cotización, ¿podrías indicarme si el servicio es para una casa o para un negocio? ¿Qué tipo de cilindro utilizas actualmente y en qué zona te encuentras?"
+        },
+        {
+          "content": "Es residencial ",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "Excelente. Para registrar tu solicitud de cambio de cilindro residencial, ¿podrías indicarme qué tipo de cilindro utilizas (por ejemplo, de 25 lb, 100 lb, etc.) y en qué zona de Costa Rica te encuentras? Además, para que nuestro equipo pueda contactarte, por favor, facilítame tu nombre y un número de teléfono."
+        },
+        {
+          "content": "Es un cilindro pequeño.",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "Entendido, un cilindro pequeño para uso residencial. Para poder registrar tu solicitud y que nuestro equipo técnico te contacte con una cotización, ¿podrías indicarme tu nombre completo, un número de teléfono y la zona exacta donde necesitas el servicio?"
+        },
+        {
+          "content": "Estamos ubicados en avenida 8, Calle 20, contiguo a Cremación y funeraria Monte Santo. Cerca del edificio de la Junta de Protección Social",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "Gracias por la información de la ubicación. Para completar tu solicitud y que nuestro equipo pueda coordinar el cambio de tu cilindro pequeño en Avenida 8, Calle 20, contiguo a Cremación y Funeraria Monte Santo, cerca del edificio de la Junta de Protección Social, ¿podrías facilitarme tu nombre completo y un número de teléfono?"
+        },
+        {
+          "content": "Claro. Enrique Ruano. 6059-3387",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "¡Gracias, Enrique! He registrado tu solicitud para el cambio de un cilindro pequeño residencial en Avenida 8, Calle 20, contiguo a Cremación y Funeraria Monte Santo, cerca del edificio de la Junta de Protección Social. Nuestro equipo se pondrá en contacto contigo en breve al número 6059-3387 para coordinar el servicio y darte una cotización formal."
+        }
+      ],
+      "createdAt": {
+        "seconds": 1772937974,
+        "nanoseconds": 740000000
+      },
+      "updatedAt": {
+        "seconds": 1772938261,
+        "nanoseconds": 752000000
+      }
+    },
+    "19e11467-fe8c-41cf-8307-5806c1c96ddd-1773041397804": {
+      "messages": [
+        {
+          "content": "Quiero solicitar una recarga de gas express.",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "¡Excelente! Contamos con servicio expreso 24/7.\n\nPara poder coordinar tu recarga de gas express, por favor indícame tu nombre completo, tu número de teléfono (o WhatsApp) y la dirección o zona donde necesitas el servicio. Así podemos tomar tu pedido y contactarte para una cotización formal."
+        }
+      ],
+      "createdAt": {
+        "seconds": 1773041402,
+        "nanoseconds": 387000000
+      },
+      "updatedAt": {
+        "seconds": 1773041402,
+        "nanoseconds": 387000000
+      }
+    },
+    "846e8492-c319-49fd-a1cc-a22ad3d3b99c-1772247993479": {
+      "messages": [
+        {
+          "content": "Quiero solicitar una recarga de gas express.",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "Para solicitar una recarga de gas express, necesito algunos datos. Por favor, indícame tu nombre completo, número de teléfono y la dirección exacta donde necesitas la recarga. También, si sabes el tipo de cilindro o alguna otra especificación, sería útil."
+        },
+        {
+          "content": "Cuanto vale un cilindro de 100libras nuevo",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "Esa es una excelente pregunta. No tengo ese detalle específico, pero la he registrado para nuestro equipo técnico. Para darte la mejor respuesta, ¿podrías facilitarme tu nombre y un número de contacto?"
+        }
+      ],
+      "createdAt": {
+        "seconds": 1772247998,
+        "nanoseconds": 202000000
+      }
+    },
+    "wilson2403@gmail.com": {
+      "updatedAt": {
+        "seconds": 1773172684,
+        "nanoseconds": 682000000
+      },
+      "messages": [
+        {
+          "content": "Me gustaria conocer sus precios",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "¡Claro que sí! Con gusto te ayudo con la información de precios. Para poder darte una cotización más precisa, necesito hacerte algunas preguntas:\n\n1.  ¿El servicio es para una casa o para un negocio?\n2.  ¿Qué tipo de servicio te interesa? ¿Es para un cambio de cilindro residencial, una instalación o revisión de gas, o suministro para una empresa?\n3.  ¿En qué zona te encuentras?"
+        },
+        {
+          "content": "Quiero solicitar una recarga de gas express.",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "Entendido. Para poder coordinar tu recarga de gas express, necesito algunos detalles:\n\n1.  ¿Cuál es tu nombre completo?\n2.  ¿Cuál es tu número de teléfono o WhatsApp?\n3.  ¿Qué tipo de cilindro de gas necesitas recargar (por ejemplo, de 25 lb, 100 lb, etc.) y cuántos?\n4.  ¿En qué zona te encuentras?"
+        },
+        {
+          "content": "wilson alfaro, 87992560, 100 libras y en el llano de san mieguel de desamparados",
+          "role": "user"
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "Lo sentimos, todos nuestros asesores de servicio de IA están ocupados en este momento. \nPor favor, intenta de nuevo más tarde o contáctanos directamente por \nWhatsApp: https://wa.me/50688277695 \nNuestros servicios principales son: \nNo hay información de precios disponible en este momento."
+        },
+        {
+          "role": "model",
+          "model": "googleai/gemini-2.5-flash",
+          "content": "¡Excelente! He registrado tu solicitud de recarga de gas de 100 libras en El Llano de San Miguel de Desamparados a nombre de Wilson Alfaro, y el número de contacto es 87992560.\n\nNuestro equipo se pondrá en contacto contigo a la brevedad para confirmar los detalles y la cotización. ¡Gracias por elegir Nitro Gas CR!"
+        }
+      ],
+      "createdAt": {
+        "seconds": 1772737362,
+        "nanoseconds": 192000000
+      }
+    }
+  },
+  "content": {
+    "en": {
+      "assistantTrainingPage": {
+        "logged": "Logged",
+        "instructions": {
+          "description": "Directly edit the assistant's brain.",
+          "saveButton": "Save Brain",
+          "title": "System Instructions",
+          "placeholder": "Enter instructions here..."
+        },
+        "toast": {
+          "errorTitle": "Error",
+          "deleteError": "Could not delete query.",
+          "instructionsSaveError": "Could not save instructions.",
+          "deleted": {
+            "title": "Deleted",
+            "description": "Query removed."
+          },
+          "instructionsSaved": {
+            "title": "Instructions Saved",
+            "description": "The assistant has been updated."
+          },
+          "fetchError": "Failed to load queries.",
+          "statusUpdated": {
+            "title": "Status Updated",
+            "notValidated": "Marked as pending.",
+            "validated": "Marked as validated."
+          },
+          "statusUpdateError": "Could not update status."
+        },
+        "mainTitle": "Assistant Training",
+        "noDoubts": {
+          "description": "There are no pending unresolved queries.",
+          "title": "Knowledge complete"
+        },
+        "cardTitle": "Unresolved Queries",
+        "cardDescription": "Review questions the AI could not answer and improve its knowledge.",
+        "deleteDialog": {
+          "deleteButton": "Delete",
+          "description": "This will remove the record forever.",
+          "title": "Delete Query"
+        },
+        "validated": "Validated"
+      },
+      "testimonialsAdminPage": {
+        "card": {
+          "hidden": "Hidden",
+          "featured": "Featured",
+          "public": "Visible"
+        },
+        "toast": {
+          "deleteSuccess": "Testimonial removed.",
+          "visibilityUpdated": {
+            "description": "The testimonial is now {status}.",
+            "title": "Visibility Updated"
+          },
+          "featuredUpdated": {
+            "title": "Featured Updated",
+            "description": "Testimonial is now {status}."
+          }
+        },
+        "mainTitle": "Social Proof Management"
+      },
+      "profilePage": {
+        "form": {
+          "nationalId": {
+            "placeholder": "x-xxxx-xxxx",
+            "label": "National ID (Cédula)"
+          },
+          "phone": {
+            "label": "WhatsApp Contact"
+          },
+          "email": {
+            "label": "Registration Email"
+          },
+          "name": {
+            "label": "Full Name",
+            "placeholder": "e.g., John Doe"
+          },
+          "language": {
+            "placeholder": "Select language...",
+            "label": "Display Language"
+          }
+        },
+        "buttons": {
+          "saving": "Updating...",
+          "save": "Save Profile"
+        },
+        "toast": {
+          "invalidPhone": {
+            "title": "Invalid Phone",
+            "description": "Please enter a valid WhatsApp number."
+          },
+          "updateError": {
+            "title": "Update Failed",
+            "description": "Could not save changes."
+          },
+          "updateSuccess": {
+            "description": "Changes saved successfully.",
+            "title": "Profile Updated"
+          },
+          "fetchError": {
+            "description": "Could not retrieve your data.",
+            "title": "Load Error"
+          },
+          "invalidNationalId": {
+            "title": "Invalid ID",
+            "description": "National ID is mandatory for invoicing."
+          }
+        },
+        "mainTitle": "Client Profile",
+        "cardDescription": "Manage your professional data and preferences."
+      },
+      "business": {
+        "whatsappUrl": "https://wa.me/50688277695",
+        "hours": " Express Service",
+        "location": {
+          "lng": -84.098396,
+          "lat": 9.89814
+        },
+        "email": "nitrogascr@gmail.com",
+        "name": "Nitro Gas CR",
+        "address": "San Rafael Arriba, Alajuelita, San José, Costa Rica",
+        "phoneFormatted": "+506 8827 7695",
+        "phone": "88277695"
+      },
+      "userManagementPage": {
+        "createUserModal": {
+          "validationError": "Name and Phone Number are required.",
+          "successToast": {
+            "description": "User {email} created. Temporary Password: {password}. Please copy this password, it will not be shown again.",
+            "title": "User Created Successfully"
+          },
+          "preuserSuccessToast": {
+            "title": "Potential Customer Created",
+            "description": "The contact {name} has been saved. You can now send them the promotion via WhatsApp."
+          },
+          "description": "If no email is provided, a potential customer will be created. If provided, a full user account will be created.",
+          "form": {
+            "sendPromotion": "Send Welcome Pack via WhatsApp",
+            "selectPromotion": "Select an offer to send",
+            "emailOptional": "Email (Optional)"
+          },
+          "title": "Create New Contact"
+        },
+        "tooltips": {
+          "pendingAlert": "User has updated requirements."
+        },
+        "deleteUserModal": {
+          "description": "This will permanently delete the user and their project history.",
+          "title": "Are you sure?"
+        },
+        "table": {
+          "columns": {
+            "phone": "WhatsApp",
+            "role": "Level",
+            "name": "Client",
+            "actions": "Actions",
+            "email": "Email"
+          }
+        },
+        "tabs": {
+          "users": "Registered Users",
+          "preusers": "Manual Leads"
+        },
+        "logModal": {
+          "logDetails": {
+            "fromRole": "From Role",
+            "changes": "Changes",
+            "toRole": "To Role",
+            "changedBy": "By",
+            "method": "Source",
+            "noChanges": "No changes detected.",
+            "updatedBy": "Admin"
+          },
+          "toast": {
+            "copyError": "Could not copy information.",
+            "copied": "Information copied to clipboard."
+          },
+          "noLogsFound": "No activity logs found for this user.",
+          "description": "A chronological history of actions performed on this account.",
+          "title": "Activity Log"
+        },
+        "reservationsModal": {
+          "noReservations": "No projects found for this user.",
+          "toast": {
+            "copyError": "Could not copy information.",
+            "copied": "Information copied to clipboard."
+          },
+          "title": "Projects for",
+          "copyGuestsButton": "Copy Requirements",
+          "description": "A list of all past and upcoming shoot dates for this user."
+        },
+        "roles": {
+          "admin": "Admin",
+          "user": "Client",
+          "selectPlaceholder": "Level"
+        },
+        "noPreusers": "No potential customers have been added.",
+        "searchPlaceholder": "Search by name, email, or phone...",
+        "mainTitle": "Contact Management",
+        "whatsappModal": {
+          "shareButton": "Share",
+          "saveTemplateButton": "Save Template",
+          "title": "Send WhatsApp to",
+          "promotionLabel": "Select Offer",
+          "messageLabel": "Message",
+          "copyButton": "Copy Message",
+          "templatePlaceholder": "Choose a template...",
+          "templateLabel": "Message Template",
+          "sendButton": "Send on WhatsApp",
+          "messagePlaceholder": "Your message will appear here...",
+          "promotionPlaceholder": "Choose an active pack...",
+          "copySuccess": "Message copied to clipboard!",
+          "description": "Select a template and edit the message before sending."
+        },
+        "cardDescription": "View and manage all registered users and potential customers.",
+        "cardTitle": "Contacts",
+        "buttons": {
+          "deleteUser": "Delete User",
+          "saveChanges": "Save Changes",
+          "saving": "Saving...",
+          "createUser": "Create Contact",
+          "logTooltip": "View Log",
+          "cancel": "Cancel",
+          "whatsapp": "WhatsApp",
+          "close": "Close",
+          "editTooltip": "Edit",
+          "assignReservation": "Schedule Shoot",
+          "viewReservations": "View Projects"
+        },
+        "toast": {
+          "error": {
+            "roleUpdateError": "Failed to update client level.",
+            "fetchUsersError": "Failed to fetch clients.",
+            "title": "Error",
+            "userUpdateError": "Failed to save client information.",
+            "fetchLogsError": "Failed to fetch activity logs."
+          },
+          "success": {
+            "title": "Success",
+            "roleUpdate": "Client level has been updated to {role}."
+          },
+          "invalidPhone": {
+            "title": "Invalid Phone Number",
+            "description": "Please enter a valid WhatsApp number for the client."
+          },
+          "userUpdated": {
+            "title": "Client Updated",
+            "description": "Client information has been successfully saved."
+          },
+          "actionForbidden": {
+            "description": "The main administrator's role cannot be changed.",
+            "title": "Action Forbidden"
+          }
+        },
+        "editReservationModal": {
+          "description": "Change the production dates for this project.",
+          "toast": {
+            "success": "Project updated successfully.",
+            "error": "Failed to update project.",
+            "validation": "Production dates are required."
+          },
+          "title": "Reschedule Project"
+        },
+        "editModal": {
+          "description": "Modify the user's details below.",
+          "form": {
+            "email": "Email",
+            "phone": "Phone Number",
+            "name": "Name"
+          },
+          "title": "Edit User"
+        },
+        "assignReservationModal": {
+          "notificationMessage": "Hello {name}! We have scheduled your shoot for the selected dates. You can check the technical details and requirements here: {link}",
+          "toast": {
+            "validationError": {
+              "title": "Missing Information",
+              "description": "Please provide production dates for the project."
+            },
+            "saveSuccess": {
+              "description": "The dates have been reserved in the calendar.",
+              "title": "Project Scheduled"
+            },
+            "saveError": "Failed to schedule project."
+          },
+          "title": "Assign Project to",
+          "description": "Set the production dates for the user.",
+          "form": {
+            "end": {
+              "label": "End of Shoot"
+            },
+            "sendNotification": {
+              "label": "Send WhatsApp notification with link to project management page."
+            },
+            "start": {
+              "label": "Production Dates"
+            },
+            "notes": {
+              "placeholder": "e.g., Location, specific equipment, goals...",
+              "label": "Technical Details (Optional)"
+            }
+          }
+        }
+      },
+      "properties": {
+        "loadingText": "Initializing Nitro 4K",
+        "description": "LPG experts for homes and businesses with immediate delivery and technical support.",
+        "title": "Our Services",
+        "buttons": {
+          "checkAvailability": "Order Refill"
+        },
+        "gallery": {
+          "description": "Our fleet and team ready to serve you anywhere in the GAM area.",
+          "items": [],
+          "title": "Nitro Gas CR in Action"
+        },
+        "items": [
+          {
+            "title_es": "Recargas a Domicilio",
+            "title_en": "Home Refills",
+            "id": "1",
+            "mediaSrc": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80",
+            "category": "service",
+            "amenities_en": [
+              "Fast Delivery",
+              "Leak Inspection",
+              "Guaranteed Weight"
+            ],
+            "description_es": "Servicio express de recarga de cilindros metálicos. Enviamos tu gas en minutos con transporte seguro y pesaje verificado.",
+            "type": "video",
+            "description_en": "Express refill service for metallic cylinders. We send your gas in minutes with safe transportation and verified weight.",
+            "amenities_es": [
+              "Entrega Rápida",
+              "Revisión de Fugas",
+              "Peso Garantizado"
+            ]
+          }
+        ]
+      },
+      "migrateContentPage": {
+        "cardTitle": "Web Synchronizer",
+        "mainTitle": "Content Synchronization",
+        "toast": {
+          "success": {
+            "title": "Sync Successful"
+          },
+          "error": {
+            "title": "Sync Failed"
+          }
+        },
+        "alert": {
+          "title": "Critical Action",
+          "description": "This will overwrite the cloud database with local definitions."
+        }
+      },
+      "hero": {
+        "subtitle2": "Certified equipment and expert staff in leak prevention.",
+        "backgroundImageUrl": "/fondo.jpg",
+        "title3": "Fastest Deliveries",
+        "title1": " Gas Refills",
+        "title": "Express LPG Delivery",
+        "loading": "Initializing Motors Nitro",
+        "backgroundVideoUrl": {
+          "visible": false,
+          "url": "/hero.mp4"
+        },
+        "overlayText": false,
+        "buttons": {
+          "facebook": {
+            "url": "https://www.facebook.com/share/1Cgzo4BaYk/",
+            "visible": true
+          },
+          "whatsapp": {
+            "text": "WhatsApp",
+            "visible": true,
+            "message": "Hello Nitro Gas CR! I need an express cylinder refill.",
+            "url": "https://wa.me/50688277695"
+          },
+          "promotions": {
+            "visible": false,
+            "text": "Offers",
+            "url": "/#promotions"
+          },
+          "explore": {
+            "text": "Explore Services",
+            "visible": false,
+            "url": "/#services"
+          },
+          "airbnb": {
+            "url": "/#services",
+            "text": "View Prices",
+            "visible": false
+          },
+          "tiktok": {
+            "url": "https://www.tiktok.com/@nitrogascr",
+            "visible": true
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/nitrogascr",
+            "visible": true
+          },
+          "book": {
+            "url": "/#booking",
+            "visible": true,
+            "text": "Request Service"
+          },
+          "youtube": {
+            "url": "https://youtube.com/@nitrogascr",
+            "visible": true
+          }
+        },
+        "subtitle": "From Alajuelita to the entire GAM area. Your trusted refill just a WhatsApp away.",
+        "title2": "Guaranteed Safety",
+        "subtitle1": "We reach your kitchen in record time with verified weight.",
+        "subtitle3": "Our Nitro fleet is ready to serve you in San Jose and Heredia."
+      },
+      "booking": {
+        "title": "Order your Nitro Gas CR Gas",
+        "description": "Indicate your exact location so our Nitro driver can arrive in record time.",
+        "form": {
+          "time": {
+            "evening": "Evening (5pm - 10pm)",
+            "afternoon": "Afternoon (12pm - 5pm)",
+            "emergency": "Urgent / ASAP",
+            "placeholder": "Choose time...",
+            "morning": "Morning (8am - 12pm)",
+            "label": "Preferred Time (Optional)"
+          },
+          "details": {
+            "placeholder": "e.g. 25lb cylinder...",
+            "label": "Order Details",
+            "ideas": [
+              "I need a 25lb cylinder in Alajuelita...",
+              "Need hose and regulator installation...",
+              "Night express refill for home kitchen..."
+            ],
+            "required": "Tell us what size cylinder you need."
+          },
+          "phone": {
+            "label": "WhatsApp Contact",
+            "invalid": "Enter a valid WhatsApp number.",
+            "placeholder": "e.g. 8888-8888"
+          },
+          "address": {
+            "label": "Delivery Address",
+            "required": "Please provide your exact address for delivery.",
+            "placeholder": "Enter your exact address for delivery..."
+          },
+          "name": {
+            "placeholder": "e.g. John Doe",
+            "label": "Customer Name",
+            "required": "Name is required for delivery."
+          },
+          "email": {
+            "placeholder": "for electronic invoicing",
+            "invalid": "Invalid email.",
+            "label": "Email (Optional)"
+          },
+          "location": {
+            "detectButton": "Use my location",
+            "searchPlaceholder": "Type an address...",
+            "placeholder": "Search address or drag the marker...",
+            "gpsActive": "GPS Nitro Activated",
+            "mapError": "The map could not load. Please enter your manual address below.",
+            "label": "Delivery Location"
+          },
+          "date": {
+            "placeholder": "Select suggested dates...",
+            "label": "Suggested Dates (Optional)"
+          }
+        },
+        "toast": {
+          "success": {
+            "title": "Order Received!",
+            "description": "Nitro Gas CR is processing your request. We'll text you on WhatsApp in seconds."
+          },
+          "error": {
+            "description": "Could not send the order. Please check your connection.",
+            "title": "Error"
+          },
+          "locationError": {
+            "title": "Location Error",
+            "description": "We couldn't access your GPS."
+          }
+        },
+        "buttons": {
+          "aiAssistant": "Request by AI",
+          "submit": "Confirm Express Order"
+        }
+      },
+      "loginPage": {
+        "toast": {
+          "success": {
+            "title": "Login Successful",
+            "description": "Welcome back!"
+          },
+          "completeProfile": {
+            "description": "Please provide a few more details to continue.",
+            "title": "Complete Your Profile"
+          },
+          "error": {
+            "title": "Login Failed"
+          }
+        },
+        "buttons": {
+          "google": "Login with Google",
+          "submit": "Login"
+        },
+        "title": "Login",
+        "form": {
+          "password": {
+            "label": "Password"
+          },
+          "email": {
+            "label": "Email"
+          },
+          "forgotPasswordLink": "Forgot your password?"
+        },
+        "errors": {
+          "tooManyRequests": "Too many failed attempts. Your account has been temporarily disabled for security.",
+          "userNotFound": "No account found with this email.",
+          "wrongPassword": "The password you entered is incorrect.",
+          "default": "An error occurred during login. Please try again.",
+          "invalidCredential": "The email or password is incorrect. Please check your details."
+        },
+        "description": "Enter your email below to login to your account",
+        "footerText": "Nitro Gas CR •  Express Service",
+        "noAccount": {
+          "link": "Sign up",
+          "text": "Don't have an account? "
+        }
+      },
+      "geminiKeysPage": {
+        "requestsToday": "Requests Today",
+        "form": {
+          "name": {
+            "placeholder": "e.g., Production Flash",
+            "label": "Engine Name"
+          },
+          "apiKey": {
+            "label": "Google API Key",
+            "placeholder": "Paste key here..."
+          },
+          "enabled": {
+            "label": "Active in Rotation"
+          },
+          "lastError": {
+            "label": "Diagnostics"
+          },
+          "modelName": {
+            "placeholder": "gemini-1.5-flash-latest",
+            "label": "Model ID"
+          }
+        },
+        "editModal": {
+          "title": "Modify Engine"
+        },
+        "createModal": {
+          "title": "New Intelligence Engine"
+        },
+        "buttons": {
+          "delete": "Remove",
+          "saveChanges": "Save Engine",
+          "calculateRequests": "Calc Load",
+          "create": "Add Engine",
+          "edit": "Edit"
+        },
+        "deleteDialog": {
+          "description": "The assistant will no longer use this key for processing.",
+          "title": "Remove Engine?"
+        },
+        "toast": {
+          "saveError": "Failed to save key.",
+          "fetchError": "Failed to load keys.",
+          "deleteSuccess": "Engine removed.",
+          "updateSuccess": "Engine updated.",
+          "deleteError": "Could not remove engine.",
+          "createSuccess": "Engine added."
+        },
+        "mainTitle": "AI Intelligence Engines"
+      },
+      "promotions": {
+        "noPast": "No record of past deals.",
+        "buttons": {
+          "share": "Share Deal",
+          "contact": "Order with Discount"
+        },
+        "tabs": {
+          "upcoming": "Active",
+          "past": "Previous"
+        },
+        "whatsappMessage": "Hello Nitro Gas CR! I saw the \"{title}\" deal on the web and I want to apply it.",
+        "title": "Nitro Gas CR Deals",
+        "noUpcoming": "No active deals. Come back soon for your Nitro Gas CR discount!",
+        "share": {
+          "notSupported": {
+            "description": "Your device does not support direct sharing.",
+            "title": "Not Supported"
+          }
+        },
+        "description": "Exclusive discounts on refills and installation kits for our frequent customers."
+      },
+      "analyticsPage": {
+        "eventNames": {
+          "tiktok_button_click": "TikTok Click",
+          "booking_form_interaction": "Form Interaction",
+          "guests_change": "Video Type Changed",
+          "presale_submission": "New Video Lead",
+          "facebook_button_click": "FB Click",
+          "submit_booking_form_click": "Form Sent",
+          "promotion_button_click": "Offer Click",
+          "date_change": "Date Changed",
+          "check_availability_button_click": "Quote Button Click",
+          "airbnb_button_click": "Airbnb Click",
+          "whatsapp_button_click": "WhatsApp Click",
+          "page_view": "Page View"
+        },
+        "log": {
+          "events": "Events",
+          "event": "Action",
+          "viewDetails": "Details",
+          "description": "What users are doing right now.",
+          "page": "Route",
+          "time": "When",
+          "eventHistoryFor": "Navigation path for",
+          "actions": "View",
+          "guest": "Prospect",
+          "user": "User",
+          "title": "Real-Time Activity"
+        },
+        "modal": {
+          "close": "Close",
+          "title": "Interaction Details",
+          "details": "Metadata"
+        },
+        "charts": {
+          "noEvents": "No data recorded for this period.",
+          "eventBreakdown": "Button Performance"
+        },
+        "stats": {
+          "buttonClicks": "CTA Interactions",
+          "totalVisits": "Web Impressions",
+          "bookingSubmissions": "Leads Generated"
+        },
+        "timeRange": {
+          "yesterday": "Yesterday",
+          "day": "Today",
+          "month": "30 Days",
+          "week": "7 Days"
+        },
+        "mainTitle": "Business Metrics"
+      },
+      "errorLogPage": {
+        "noRead": "Archive Empty",
+        "deleteDialog": {
+          "description": "Remove this specific error log.",
+          "title": "Delete Record"
+        },
+        "tabs": {
+          "read": "Archive",
+          "unread": "New Errors"
+        },
+        "stackTrace": "Stack Trace",
+        "context": "Error Context",
+        "deleteAllDialog": {
+          "title": "Wipe all logs?",
+          "description": "This will clear the entire history of system errors."
+        },
+        "toast": {
+          "deleteSuccess": "Log deleted.",
+          "deleteAllSuccess": "Log database cleared.",
+          "updateError": "Status update failed.",
+          "deleteError": "Could not delete log.",
+          "deleteAllError": "Failed to clear database.",
+          "markedRead": "Error resolved.",
+          "markedUnread": "Error reopened.",
+          "fetchError": "Failed to load logs.",
+          "noErrorsToDelete": "No logs found."
+        },
+        "mainTitle": "Technical Diagnostics",
+        "buttons": {
+          "markUnread": "Reopen",
+          "delete": "Delete",
+          "markRead": "Resolve",
+          "deleteAll": "Clear All Logs",
+          "deleteAllConfirm": "Confirm Wipe"
+        },
+        "status": {
+          "read": "Resolved",
+          "unread": "Critical"
+        },
+        "noUnread": "System Stable"
+      },
+      "presalesPage": {
+        "noRequestsContacted": "No history found.",
+        "noRequestsPending": "Everything is up to date.",
+        "tabs": {
+          "pending": "New Orders",
+          "contacted": "Dispatched"
+        },
+        "subtitle": "Logistics control and express dispatch.",
+        "mainTitle": "Order Management",
+        "buttons": {
+          "whatsapp": "WhatsApp",
+          "contacted": "Mark Dispatched",
+          "pending": "Move to Pending",
+          "call": "Call",
+          "email": "Email",
+          "delete": "Remove Order",
+          "shareDriver": "Share with Driver",
+          "waze": "Open Waze"
+        },
+        "deleteDialog": {
+          "description": "This action cannot be undone.",
+          "title": "Remove Order?"
+        },
+        "toast": {
+          "statusUpdate": "Status updated.",
+          "deleteSuccess": "Record removed.",
+          "error": "Action failed."
+        }
+      },
+      "assistantChat": {
+        "buttons": {
+          "send": "Inquire"
+        },
+        "initialGreeting": "Hello! I'm the Nitro Gas CR assistant. How can I help you today? (Prices, safety, leaks, orders...)",
+        "openButtonText": "Nitro Chat",
+        "title": "Nitro Gas CR Assistant",
+        "openAIAssistant": "Consult Nitro Assistant",
+        "errorMessage": "It seems there's a problem in the gas network... try again.",
+        "tabs": {
+          "guide": "My Inquiries",
+          "chat": "Consulting"
+        },
+        "tooltips": [
+          "Today's prices",
+          "Do I have a leak?",
+          "Night schedule"
+        ],
+        "inputPlaceholder": "Type your question...",
+        "description": "Your AI expert in safety, pricing, and LPG services."
+      },
+      "contentPage": {
+        "searchPlaceholder": "Search by key or content...",
+        "toast": {
+          "error": {
+            "saveError": "Failed to save content.",
+            "title": "Error"
+          },
+          "saveSuccess": {
+            "description": "Website updated successfully.",
+            "title": "Content Saved"
+          }
+        },
+        "mobileView": {
+          "allTranslations": "All Translations"
+        },
+        "buttons": {
+          "saving": "Saving...",
+          "cancel": "Cancel",
+          "saveChanges": "Save Changes"
+        },
+        "mainTitle": "Content Management",
+        "editModal": {
+          "title": "Edit Translation"
+        },
+        "noResults": "No results found for '{searchTerm}'",
+        "cardDescription": "Manage every word of the digital experience.",
+        "table": {
+          "columns": {
+            "actions": "Actions",
+            "key": "Key"
+          }
+        },
+        "cardTitle": "Web Translation Editor"
+      },
+      "accessDenied": {
+        "title": "Access Denied",
+        "description": "This area is restricted to the Nitro Gas CR administrative team.",
+        "button": "Go to Home"
+      },
+      "testimonials": {
+        "title": "Happy Clients",
+        "leaveReviewButton": "Rate Service",
+        "modal": {
+          "description": "What did you think of the delivery speed and the driver's service?",
+          "commentLabel": "Comment",
+          "title": "Your opinion matters",
+          "validation": {
+            "text": "Tell us a bit more about your experience.",
+            "rating": "Choose how many stars you give us."
+          },
+          "commentPlaceholder": "e.g. Arrived in 15 minutes, very friendly...",
+          "ratingLabel": "Service Rating",
+          "submitButton": "Send Review"
+        },
+        "description": "The speed and safety of Nitro Gas CR confirmed by our users since 2009.",
+        "sync": {
+          "success": {
+            "title": "Sync Successful",
+            "description": "{count} new reviews imported."
+          },
+          "syncButton": "Sync with Google",
+          "syncingButton": "Syncing...",
+          "error": {
+            "title": "Sync Failed"
+          }
+        },
+        "noTestimonials": "Be the first to rate our express service!",
+        "toast": {
+          "error": {
+            "description": "Review couldn't be saved.",
+            "title": "Error"
+          },
+          "success": {
+            "description": "Your review helps more people trust Nitro Gas CR.",
+            "title": "Thank you!"
+          }
+        }
+      },
+      "buttons": {
+        "cancel": "Cancel",
+        "saving": "Saving..."
+      },
+      "signupPage": {
+        "footerText": "Nitro Gas CR • Creative Community",
+        "description": "Enter your information to create an account",
+        "form": {
+          "confirmPassword": {
+            "label": "Confirm Password"
+          },
+          "password": {
+            "label": "Password"
+          },
+          "name": {
+            "placeholder": "John Doe",
+            "label": "Name"
+          },
+          "email": {
+            "label": "Email"
+          },
+          "phone": {
+            "label": "Phone Number"
+          }
+        },
+        "errors": {
+          "emailExists": "This email address is already registered.",
+          "passwordsDoNotMatch": "Passwords do not match.",
+          "invalidPhoneNumber": "Please enter a valid phone number."
+        },
+        "title": "Sign Up",
+        "toast": {
+          "error": {
+            "title": "Signup Failed"
+          },
+          "success": {
+            "title": "Signup Successful",
+            "description": "Your account has been created."
+          }
+        },
+        "buttons": {
+          "createAccount": "Create an account"
+        },
+        "haveAccount": {
+          "text": "Already have an account? ",
+          "link": "Login"
+        }
+      },
+      "localGuide": {
+        "description": "Tell us how many people live in your house and how much you cook, and our AI will tell you how long your cylinder should last and savings tips.",
+        "form": {
+          "interests": {
+            "label": "Gas Usage",
+            "min": "Give us more details for a better calculation.",
+            "placeholder": "e.g., 4 people, we cook 3 times a day"
+          }
+        },
+        "sections": {
+          "shotList": "Safety Recommendations",
+          "marketingObjectives": "Suggested Refill Frequency",
+          "creativeConcepts": "Savings Tips"
+        },
+        "title": "Savings Calculator",
+        "noHistory": "No consumption inquiries performed yet.",
+        "toast": {
+          "error": {
+            "title": "Calculation Error",
+            "description": "We couldn't process the query. Please try again."
+          },
+          "authError": {
+            "description": "Log in to keep track of your gas consumption history.",
+            "title": "Client Access"
+          },
+          "success": {
+            "description": "Your savings guide is available in 'My Inquiries'.",
+            "title": "Analysis Ready!"
+          }
+        },
+        "buttons": {
+          "loading": "Analyzing consumption...",
+          "submit": "Calculate Efficiency"
+        },
+        "createButton": "New Inquiry"
+      },
+      "welcomeModal": {
+        "openButton": "View Nitro Guide",
+        "closeButton": "Got it!",
+        "description": "The fastest and safest way to order gas in Costa Rica. Look at what you can do in our app:",
+        "title": "Welcome to Nitro Gas CR!",
+        "features": {
+          "aiAssistant": {
+            "description": "Our AI advises you on safety, leak detection, and efficiency calculations.",
+            "title": "AI Gas Expert"
+          },
+          "guestManual": {
+            "description": "Learn how to care for your cylinders and know our quality standards.",
+            "title": "Safety Guide"
+          },
+          "guestManagement": {
+            "title": "Order Management",
+            "description": "Track your refill history and download your payment receipts."
+          },
+          "calendarSync": {
+            "title": "Service Schedule",
+            "description": "Check our coverage areas and special express schedules."
+          }
+        }
+      },
+      "chatHistoryPage": {
+        "tabs": {
+          "guests": "Visitors",
+          "users": "Clients"
+        },
+        "cardDescription": "Track all interactions with the digital assistant.",
+        "searchPlaceholder": "Search by email or content...",
+        "mainTitle": "Strategy Monitoring",
+        "cardTitle": "Consulting History",
+        "noChats": "No activity",
+        "modal": {
+          "close": "Close Transcript"
+        }
+      },
+      "guestManual": {
+        "beach": {
+          "title": "Coastal Service",
+          "gallery": [],
+          "description": "We reach your coastal project with marine-grade equipment."
+        },
+        "review": {
+          "description": "Help us grow with your opinion on Google.",
+          "buttonText": "Rate on Google",
+          "googleReviewUrl": "https://g.page/r/example/review",
+          "title": "Rate our Service"
+        },
+        "equipment": {
+          "entertainment": "We guarantee 100% operational safety.",
+          "kitchen": {
+            "items": [
+              "Premium Regulators",
+              "High pressure hoses"
+            ],
+            "title": "Domestic Use"
+          },
+          "bedrooms": {
+            "title": "Industrial Storage",
+            "room3": "Automatic valves",
+            "master": "Fireproof tanks",
+            "room2": "Leak sensors"
+          },
+          "title": "Technical Equipment"
+        },
+        "mainDescription": "Everything you need to know about our technical capabilities, safety protocols, and  logistics to ensure efficient LPG usage.",
+        "mainTitle": "Technical Dossier",
+        "outdoors": {
+          "gallery": [],
+          "title": "Safety Standards",
+          "terrace": "Outdoor ventilation protocols.",
+          "gasGrill": "Safe handling of high pressure."
+        },
+        "bottom": {
+          "developedBy": "Developed by Crea Tu App SR",
+          "developedByUrl": "https://creatuappcr.com"
+        },
+        "location": {
+          "title": "Our Location",
+          "mapsUrl": "https://goo.gl/maps/example",
+          "imageUrl": "/fondo.jpg",
+          "mapsButton": "Open Maps",
+          "address": "San Rafael Arriba, Alajuelita, San José.",
+          "whatsappButton": "Share Location",
+          "bracelets": "Authorized personnel only."
+        },
+        "waterSystem": {
+          "gallery": [],
+          "dispenser": "Calibrated scales.",
+          "title": "Process Control",
+          "mainSystem": "Verified filling system."
+        },
+        "badgeText": "Nitro Safety & Service",
+        "smartTech": {
+          "imageUrl": "/logo.jpg",
+          "title": "Nitro Technology",
+          "description": "Digital systems for your safety and comfort.",
+          "voiceControl": "Remote assistance.",
+          "ac": "Climate controlled storage.",
+          "tvs": {
+            "description": "Track your delivery in real-time.",
+            "title": "Digital Monitoring",
+            "names": "Fleet IDs",
+            "code": "GPS-LIVE",
+            "nameList": "Nitro 01, Nitro 02"
+          },
+          "acImageUrl": "/fondo.jpg",
+          "smartLock": "Biometric access control."
+        },
+        "securitySection": {
+          "description": "Our validated operational standards.",
+          "title": "Certifications & Quality"
+        },
+        "signup": {
+          "description": "Join our network to manage your orders and get special benefits.",
+          "button": "Register Now",
+          "title": "Register as a Client"
+        },
+        "condoFacilities": {
+          "imageUrl": "/logo.jpg",
+          "security": {
+            "items": [
+              "Constant monitoring",
+              "Emergency response team"
+            ],
+            "title": " Security"
+          },
+          "title": "Certifications",
+          "pools": {
+            "title": "Environmental Care",
+            "items": [
+              "Zero emission protocol",
+              "Safe waste disposal"
+            ],
+            "rulesImageUrl": "/logo.jpg"
+          }
+        },
+        "fridge": {
+          "description": "Industrial cooling for components.",
+          "title": "Cold Chain",
+          "gallery": []
+        }
+      },
+      "backupContentPage": {
+        "mainTitle": "Database Backup",
+        "buttons": {
+          "export": "Download JSON",
+          "import": "Restore Now"
+        },
+        "toast": {
+          "exportError": {
+            "title": "Export Failed"
+          },
+          "importSuccess": {
+            "title": "Restore Complete"
+          },
+          "exportSuccess": {
+            "description": "The backup file has been generated.",
+            "title": "Export Ready"
+          },
+          "importError": {
+            "title": "Restore Failed"
+          }
+        },
+        "exportCard": {
+          "title": "Export Data"
+        },
+        "importCard": {
+          "title": "Restore Backup"
+        }
+      },
+      "adminSettingsPage": {
+        "themeSelector": {
+          "title": "Visual Identity",
+          "description": "Change the app's colors and theme.",
+          "toast": {
+            "title": "Theme applied:",
+            "description": "Global styles updated."
+          }
+        },
+        "pricingCard": {
+          "title": "Refill Pricing",
+          "form": {
+            "four": {
+              "label": "50lb Cylinder"
+            },
+            "placeholder": "Price in CRC",
+            "eight": {
+              "label": "Technical Service"
+            },
+            "six": {
+              "label": "100lb Cylinder"
+            },
+            "couple": {
+              "label": "25lb Cylinder"
+            },
+            "maxGuests": {
+              "label": "Max Monthly Refills"
+            }
+          },
+          "description": "Manage current cylinder prices."
+        },
+        "toast": {
+          "saveSuccess": {
+            "description": "Configuration updated successfully.",
+            "title": "Settings Saved"
+          },
+          "error": {
+            "description": "Could not save changes.",
+            "title": "Error"
+          }
+        },
+        "mainTitle": "Control Center",
+        "buttons": {
+          "saving": "Saving...",
+          "save": "Save All"
+        },
+        "signupCard": {
+          "form": {
+            "countryCode": {
+              "hint": "ISO code for phone input.",
+              "label": "Default Country Code",
+              "placeholder": "e.g., CR"
+            }
+          },
+          "description": "Configuration for new client registration.",
+          "title": "Sign Up Rules"
+        }
+      },
+      "footer": {
+        "whatsappCommunityUrl": "https://wa.me/50688277695",
+        "developedByUrl": "https://creatuappcr.com",
+        "community": "Community",
+        "developedBy": "Developed by Crea Tu App SR",
+        "copyright": "© {year} Nitro Gas CR. All rights reserved.",
+        "googleUrl": "Nitro Gas CR"
+      },
+      "guestManagementPage": {
+        "description": "Manage staff and details for your orders.",
+        "title": "Order Management",
+        "addGuestModal": {
+          "form": {
+            "type": {
+              "placeholder": "Select...",
+              "adult": "Adult",
+              "child": "Child",
+              "label": "Type"
+            },
+            "name": {
+              "placeholder": "e.g. John Doe",
+              "label": "Full Name"
+            },
+            "id": {
+              "placeholder": "x-xxxx-xxxx",
+              "label": "National ID"
+            }
+          },
+          "description": "Enter the details of the person who will be on site.",
+          "validation": {
+            "idRequired": "ID is mandatory for adults.",
+            "nameRequired": "Name is required.",
+            "typeRequired": "Type is required."
+          },
+          "title": "Add Staff / Talent"
+        },
+        "toast": {
+          "guestAdded": {
+            "description": "Registered successfully.",
+            "title": "Staff Added"
+          },
+          "guestRemoved": {
+            "description": "Record has been removed.",
+            "title": "Staff Removed"
+          }
+        },
+        "addReservationModal": {
+          "buttons": {
+            "adding": "Scheduling...",
+            "add": "Schedule"
+          },
+          "toast": {
+            "success": {
+              "title": "Project Scheduled",
+              "description": "The shoot has been successfully recorded."
+            },
+            "error": "Could not schedule the project.",
+            "validationError": {
+              "description": "Please select the dates."
+            }
+          },
+          "form": {
+            "start": {
+              "label": "Start Date"
+            },
+            "notes": {
+              "label": "Technical Notes",
+              "placeholder": "Equipment details, location, etc."
+            },
+            "end": {
+              "label": "End Date"
+            }
+          },
+          "description": "Select the dates for your next production.",
+          "title": "Schedule Production"
+        },
+        "addGuestButton": "Add Staff"
+      },
+      "loading": "Loading nitro motors...",
+      "manual": {
+        "title": "Nitro Gas CR FAQs",
+        "items": [
+          {
+            "title": "How do I request a refill?",
+            "content": "It's simple: 1) Send a photo of your cylinder via WhatsApp, 2) Share your location, 3) We confirm the price, and 4) You get your gas in minutes.",
+            "id": 1
+          },
+          {
+            "title": "What payment methods do you accept?",
+            "content": "We accept cash upon cylinder delivery or Sinpe Movil to 8827-7695 under the name Nitro Gas CR.",
+            "id": 2
+          }
+        ],
+        "description": "Everything you need to know for a safe and efficient gas usage."
+      },
+      "header": {
+        "userMenu": {
+          "logout": {
+            "text": "Log out",
+            "visible": true,
+            "url": "/login"
+          },
+          "guestRegistration": {
+            "visible": false,
+            "text": "My Orders",
+            "url": "/guest-management"
+          },
+          "instructions": {
+            "text": "Instructions",
+            "visible": true
+          },
+          "profile": {
+            "url": "/profile",
+            "text": "Profile",
+            "visible": true
+          }
+        },
+        "mobileMenuTitle": "Nitro Gas CR Menu",
+        "appName": "Nitro Gas CR",
+        "links": {
+          "gallery": {
+            "visible": true,
+            "text": "Fleet",
+            "url": "/#portfolio"
+          },
+          "properties": {
+            "url": "/#services",
+            "visible": true,
+            "text": "Services"
+          },
+          "manualQuote": {
+            "visible": true,
+            "text": "Order Gas",
+            "url": "/#booking"
+          },
+          "promotions": {
+            "url": "/#promotions",
+            "text": "Deals",
+            "visible": true
+          },
+          "instructions": {
+            "text": "Safety",
+            "visible": false,
+            "url": "/guest-manual"
+          },
+          "testimonials": {
+            "url": "/#testimonials",
+            "text": "Reviews",
+            "visible": true
+          },
+          "manualitems": {
+            "url": "/#manual",
+            "visible": true,
+            "text": "Preguntas"
+          },
+          "theme": {
+            "visible": true,
+            "text": "Selector de Tema",
+            "url": "#"
+          }
+        },
+        "logoUrl": "/logo.jpg",
+        "adminMenu": {
+          "errorLog": {
+            "text": "Errors",
+            "visible": false,
+            "url": "/admin/errors"
+          },
+          "settings": {
+            "url": "/admin/settings",
+            "text": "Settings",
+            "visible": false
+          },
+          "admin": {
+            "text": "Admin",
+            "visible": false,
+            "url": "/admin"
+          },
+          "managePromotions": {
+            "visible": false,
+            "text": "Campaigns",
+            "url": "/admin/promotions"
+          },
+          "testimonials": {
+            "visible": false,
+            "text": "Testimonials",
+            "url": "/admin/testimonials"
+          },
+          "analytics": {
+            "url": "/admin/analytics",
+            "visible": true,
+            "text": "Analytics"
+          },
+          "content": {
+            "url": "/admin/content",
+            "text": "Web Editor",
+            "visible": false
+          },
+          "manageUsers": {
+            "url": "/admin/users",
+            "text": "Clients",
+            "visible": true
+          },
+          "geminiKeys": {
+            "text": "AI Engines",
+            "visible": true,
+            "url": "/admin/gemini-keys"
+          },
+          "chatHistory": {
+            "visible": true,
+            "text": "AI Queries",
+            "url": "/admin/chat-history"
+          },
+          "assistantTraining": {
+            "text": "Train Bot",
+            "visible": true,
+            "url": "/admin/assistant-training"
+          },
+          "managePresales": {
+            "url": "/admin/presales",
+            "text": "Sales",
+            "visible": true
+          }
+        },
+        "buttons": {
+          "changeLanguage": "Language",
+          "toggleMenu": "Menu",
+          "login": "My Account"
+        }
+      }
+    },
+    "es": {
+      "testimonials": {
+        "toast": {
+          "error": {
+            "description": "No se pudo guardar la reseña.",
+            "title": "Error"
+          },
+          "success": {
+            "title": "¡Gracias!",
+            "description": "Tu reseña ayuda a que más personas confíen en Nitro Gas CR."
+          }
+        },
+        "noTestimonials": "¡Sé el primero en calificar nuestro servicio express!",
+        "sync": {
+          "error": {
+            "title": "Fallo en Sincronización"
+          },
+          "syncingButton": "Sincronizando...",
+          "success": {
+            "title": "Sincronización Exitosa",
+            "description": "{count} reseñas nuevas importadas."
+          },
+          "syncButton": "Sincronizar con Google"
+        },
+        "description": "La rapidez y seguridad de Nitro Gas CR confirmada por nuestros usuarios desde 2009.",
+        "modal": {
+          "commentLabel": "Comentario",
+          "title": "Tu opinión cuenta",
+          "description": "¿Qué te pareció la rapidez de la entrega y la atención del repartidor?",
+          "submitButton": "Enviar Reseña",
+          "ratingLabel": "Calificación de Servicio",
+          "validation": {
+            "rating": "Elige cuántas estrellas nos das.",
+            "text": "Cuéntanos un poco más sobre tu experiencia."
+          },
+          "commentPlaceholder": "ej. Llegaron en 15 minutos, muy amables..."
+        },
+        "title": "Clientes Satisfechos",
+        "leaveReviewButton": "Calificar Servicio"
+      },
+      "contentPage": {
+        "table": {
+          "columns": {
+            "actions": "Acciones",
+            "key": "Clave"
+          }
+        },
+        "cardDescription": "Gestiona cada palabra de la experiencia digital.",
+        "cardTitle": "Editor de Traducciones",
+        "noResults": "No hay resultados para '{searchTerm}'",
+        "searchPlaceholder": "Buscar por clave o contenido...",
+        "mobileView": {
+          "allTranslations": "Todas las Traducciones"
+        },
+        "buttons": {
+          "cancel": "Cancelar",
+          "saveChanges": "Guardar Cambios",
+          "saving": "Guardando..."
+        },
+        "mainTitle": "Gestión de Contenidos",
+        "toast": {
+          "error": {
+            "saveError": "Fallo al guardar el contenido.",
+            "title": "Error"
+          },
+          "saveSuccess": {
+            "description": "La web se actualizó correctamente.",
+            "title": "Contenido Guardado"
+          }
+        },
+        "editModal": {
+          "title": "Editar Traducción"
+        }
+      },
+      "assistantChat": {
+        "tooltips": [
+          "Precios de hoy",
+          "¿Tengo una fuga?",
+          "Horario nocturno"
+        ],
+        "inputPlaceholder": "Escribe tu duda...",
+        "description": "Tu experto IA en seguridad, precios y servicios de GLP.",
+        "openAIAssistant": "Consultar Asistente Nitro",
+        "errorMessage": "Parece que hay un problema en la red de gas... intenta de nuevo.",
+        "tabs": {
+          "guide": "Mis Consultas",
+          "chat": "Consultoría"
+        },
+        "title": "Asistente Nitro Gas CR",
+        "buttons": {
+          "send": "Consultar"
+        },
+        "initialGreeting": "¡Hola! Soy el asistente de Nitro Gas CR. ¿En qué puedo ayudarte hoy? (Precios, seguridad, fugas, pedidos...)",
+        "openButtonText": "Chat Nitro"
+      },
+      "accessDenied": {
+        "title": "Acceso Restringido",
+        "description": "Esta área es exclusiva para el equipo administrativo de Nitro Gas CR.",
+        "button": "Volver al Inicio"
+      },
+      "localGuide": {
+        "createButton": "Nueva Consulta",
+        "noHistory": "Aún no has realizado consultas de rendimiento.",
+        "buttons": {
+          "loading": "Analizando consumo...",
+          "submit": "Calcular Rendimiento"
+        },
+        "toast": {
+          "success": {
+            "description": "Tu guía de ahorro está disponible en 'Mis Consultas'.",
+            "title": "¡Análisis Listo!"
+          },
+          "authError": {
+            "description": "Inicia sesión para llevar el historial de tu consumo de gas.",
+            "title": "Acceso Clientes"
+          },
+          "error": {
+            "description": "No pudimos procesar la consulta. Intenta de nuevo.",
+            "title": "Error de Cálculo"
+          }
+        },
+        "title": "Calculador de Ahorro",
+        "sections": {
+          "shotList": "Recomendaciones de Seguridad",
+          "creativeConcepts": "Tips de Ahorro",
+          "marketingObjectives": "Frecuencia de Recarga Sugerida"
+        },
+        "description": "Dinos cuántas personas viven en tu casa y qué tanto cocinas, y nuestra IA te dirá cuánto debería durarte el cilindro y tips de ahorro.",
+        "form": {
+          "interests": {
+            "placeholder": "ej., 4 personas, cocinamos 3 veces al día",
+            "min": "Danos más detalles para calcular mejor.",
+            "label": "Uso de Gas"
+          }
+        }
+      },
+      "welcomeModal": {
+        "openButton": "Ver Guía Nitro",
+        "closeButton": "¡Entendido!",
+        "description": "La forma más rápida y segura de pedir gas en Costa Rica. Mira lo que puedes hacer en nuestra app:",
+        "features": {
+          "guestManagement": {
+            "description": "Lleva el historial de tus recargas y descarga tus comprobantes de pago.",
+            "title": "Gestión de Pedidos"
+          },
+          "guestManual": {
+            "description": "Aprende a cuidar tus cilindros y conoce nuestros estándares de calidad.",
+            "title": "Guía de Seguridad"
+          },
+          "aiAssistant": {
+            "title": "Experto en Gas IA",
+            "description": "Nuestra IA te asesora en seguridad, detección de fugas y cálculo de rendimiento."
+          },
+          "calendarSync": {
+            "title": "Agenda de Servicio",
+            "description": "Consulta nuestras zonas de cobertura y horarios express especiales."
+          }
+        },
+        "title": "¡Bienvenido a Nitro Gas CR!"
+      },
+      "buttons": {
+        "cancel": "Cancelar",
+        "saving": "Guardando..."
+      },
+      "signupPage": {
+        "errors": {
+          "invalidPhoneNumber": "Por favor, ingresa un número de teléfono válido.",
+          "passwordsDoNotMatch": "Las contraseñas no coinciden.",
+          "emailExists": "Este correo ya está registrado."
+        },
+        "form": {
+          "name": {
+            "label": "Nombre",
+            "placeholder": "Juan Pérez"
+          },
+          "password": {
+            "label": "Contraseña"
+          },
+          "email": {
+            "label": "Correo Electrónico"
+          },
+          "confirmPassword": {
+            "label": "Confirmar Contraseña"
+          },
+          "phone": {
+            "label": "WhatsApp"
+          }
+        },
+        "description": "Crea una cuenta para acceder a tu estratega creativo de IA",
+        "footerText": "Nitro Gas CR • Comunidad Creativa",
+        "title": "Registrarse",
+        "buttons": {
+          "createAccount": "Crear Cuenta"
+        },
+        "toast": {
+          "error": {
+            "title": "Error al Registrarse"
+          },
+          "success": {
+            "description": "Tu cuenta de cliente ha sido creada.",
+            "title": "Registro Exitoso"
+          }
+        },
+        "haveAccount": {
+          "link": "Iniciar Sesión",
+          "text": "¿Ya tienes una cuenta? "
+        }
+      },
+      "backupContentPage": {
+        "exportCard": {
+          "title": "Exportar Contenido"
+        },
+        "importCard": {
+          "title": "Restaurar Copia"
+        },
+        "mainTitle": "Respaldo de Datos",
+        "buttons": {
+          "import": "Restaurar Ahora",
+          "export": "Descargar JSON"
+        },
+        "toast": {
+          "exportSuccess": {
+            "description": "Se ha generado el archivo de respaldo.",
+            "title": "Exportación Lista"
+          },
+          "importError": {
+            "title": "Fallo al importar"
+          },
+          "importSuccess": {
+            "title": "Restauración Completada"
+          },
+          "exportError": {
+            "title": "Fallo al exportar"
+          }
+        }
+      },
+      "guestManual": {
+        "fridge": {
+          "description": "Enfriamiento industrial para componentes.",
+          "title": "Cadena de Frío",
+          "gallery": []
+        },
+        "condoFacilities": {
+          "title": "Certificaciones",
+          "security": {
+            "items": [
+              "Monitoreo constante",
+              "Equipo de respuesta inmediata"
+            ],
+            "title": "Seguridad "
+          },
+          "imageUrl": "/logo.jpg",
+          "pools": {
+            "title": "Cuidado Ambiental",
+            "items": [
+              "Protocolo de cero emisiones",
+              "Desecho seguro de residuos"
+            ],
+            "rulesImageUrl": "/logo.jpg"
+          }
+        },
+        "securitySection": {
+          "description": "Nuestros estándares operativos validados.",
+          "title": "Certificaciones y Calidad"
+        },
+        "smartTech": {
+          "smartLock": "Control de acceso biométrico.",
+          "ac": "Almacenamiento climatizado.",
+          "acImageUrl": "/fondo.jpg",
+          "tvs": {
+            "title": "Monitoreo Digital",
+            "names": "ID de Flota",
+            "code": "GPS-VIVO",
+            "description": "Sigue tu pedido en tiempo real.",
+            "nameList": "Nitro 01, Nitro 02"
+          },
+          "description": "Sistemas digitales para tu seguridad y comodidad.",
+          "voiceControl": "Asistencia remota.",
+          "imageUrl": "/logo.jpg",
+          "title": "Tecnología Nitro"
+        },
+        "signup": {
+          "button": "Registrarme Ahora",
+          "description": "Únete a nuestra red para gestionar tus pedidos y obtener beneficios especiales.",
+          "title": "Regístrate como Cliente"
+        },
+        "waterSystem": {
+          "title": "Control de Procesos",
+          "dispenser": "Básculas calibradas.",
+          "gallery": [],
+          "mainSystem": "Sistema de llenado verificado."
+        },
+        "badgeText": "Seguridad y Servicio Nitro",
+        "mainTitle": "Dossier Técnico",
+        "mainDescription": "Todo lo que necesitas saber sobre nuestras capacidades técnicas, protocolos de seguridad y logística  para garantizar un uso eficiente de tu Gas LP.",
+        "bottom": {
+          "developedByUrl": "https://creatuappcr.com",
+          "developedBy": "Desarrollado por Crea Tu App CR"
+        },
+        "location": {
+          "address": "San Rafael Arriba, Alajuelita, San José.",
+          "whatsappButton": "Compartir Ubicación",
+          "bracelets": "Acceso restringido solo a personal autorizado.",
+          "imageUrl": "/fondo.jpg",
+          "mapsUrl": "https://goo.gl/maps/example",
+          "title": "Nuestra Ubicación",
+          "mapsButton": "Abrir Mapas"
+        },
+        "outdoors": {
+          "gallery": [],
+          "title": "Protocolos de Exterior",
+          "terrace": "Zonas de ventilación obligatoria.",
+          "gasGrill": "Manejo seguro de alta presión."
+        },
+        "review": {
+          "buttonText": "Calificar en Google",
+          "title": "Califica nuestro Servicio",
+          "googleReviewUrl": "https://g.page/r/example/review",
+          "description": "Ayúdanos a crecer con tu opinión en Google."
+        },
+        "beach": {
+          "description": "Llegamos a tu proyecto en la playa con equipos de grado marino.",
+          "title": "Servicio Costero",
+          "gallery": []
+        },
+        "equipment": {
+          "kitchen": {
+            "items": [
+              "Reguladores Premium",
+              "Mangueras de alta presión"
+            ],
+            "title": "Uso Doméstico"
+          },
+          "bedrooms": {
+            "room2": "Sensores de fuga",
+            "room3": "Válvulas automáticas",
+            "master": "Tanques ignífugos",
+            "title": "Almacén Industrial"
+          },
+          "entertainment": "Garantizamos 100% de seguridad operativa.",
+          "title": "Equipo Técnico"
+        }
+      },
+      "chatHistoryPage": {
+        "modal": {
+          "close": "Cerrar Transcripción"
+        },
+        "mainTitle": "Monitoreo Estratégico",
+        "searchPlaceholder": "Buscar por email o contenido...",
+        "tabs": {
+          "guests": "Visitantes",
+          "users": "Clientes"
+        },
+        "cardDescription": "Rastreo de todas las interacciones con el asistente digital.",
+        "noChats": "Sin actividad",
+        "cardTitle": "Consultas Historial"
+      },
+      "loading": "Cargando motores nitro...",
+      "manual": {
+        "description": "Todo lo que necesitas saber para un uso seguro y eficiente de tu gas.",
+        "items": [
+          {
+            "title": "¿Cómo solicito mi recarga?",
+            "content": "Es muy simple: 1) Envía foto de tu cilindro por WhatsApp, 2) Comparte tu ubicación, 3) Te confirmamos el precio y 4) Recibes tu gas en minutos.",
+            "id": 1
+          },
+          {
+            "content": "Aceptamos efectivo al recibir el cilindro o Sinpe Móvil al número 8827-7695 a nombre de Nitro Gas CR.",
+            "id": 2,
+            "title": "¿Qué métodos de pago aceptan?"
+          }
+        ],
+        "title": "Preguntas Frecuentes"
+      },
+      "header": {
+        "mobileMenuTitle": "Nitro Gas CR Menú",
+        "userMenu": {
+          "logout": {
+            "url": "/login",
+            "text": "Cerrar Sesión",
+            "visible": true
+          },
+          "guestRegistration": {
+            "url": "/guest-management",
+            "visible": false,
+            "text": "Mis Pedidos"
+          },
+          "instructions": {
+            "visible": true,
+            "text": "Instrucciones",
+            "url": "/guest-manual"
+          },
+          "profile": {
+            "url": "/profile",
+            "text": "Mi Perfil",
+            "visible": true
+          }
+        },
+        "links": {
+          "instructions": {
+            "url": "/guest-manual",
+            "text": "Seguridad",
+            "visible": false
+          },
+          "promotions": {
+            "text": "Ofertas",
+            "visible": true,
+            "url": "/#promotions"
+          },
+          "manualQuote": {
+            "visible": true,
+            "text": "Pedir Gas",
+            "url": "/#booking"
+          },
+          "properties": {
+            "url": "/#services",
+            "text": "Servicios",
+            "visible": true
+          },
+          "gallery": {
+            "url": "/#portfolio",
+            "visible": true,
+            "text": "Flota"
+          },
+          "theme": {
+            "text": "Theme Selector",
+            "visible": true,
+            "url": "#"
+          },
+          "manualitems": {
+            "url": "/#manual",
+            "visible": true,
+            "text": "Preguntas"
+          },
+          "testimonials": {
+            "visible": true,
+            "text": "Reseñas",
+            "url": "/#testimonials"
+          }
+        },
+        "appName": "Nitro Gas CR",
+        "buttons": {
+          "toggleMenu": "Menú",
+          "changeLanguage": "Idioma",
+          "login": "Mi Cuenta"
+        },
+        "adminMenu": {
+          "admin": {
+            "text": "Administración",
+            "visible": true,
+            "url": "/admin"
+          },
+          "settings": {
+            "url": "/admin/settings",
+            "text": "Ajustes",
+            "visible": false
+          },
+          "errorLog": {
+            "visible": false,
+            "text": "Errores",
+            "url": "/admin/errors"
+          },
+          "analytics": {
+            "url": "/admin/analytics",
+            "visible": true,
+            "text": "Analíticas"
+          },
+          "testimonials": {
+            "visible": false,
+            "text": "Testimonios",
+            "url": "/admin/testimonials"
+          },
+          "managePromotions": {
+            "text": "Promociones",
+            "visible": false,
+            "url": "/admin/promotions"
+          },
+          "manageUsers": {
+            "url": "/admin/users",
+            "visible": true,
+            "text": "Clientes"
+          },
+          "geminiKeys": {
+            "text": "Motores IA",
+            "visible": true,
+            "url": "/admin/gemini-keys"
+          },
+          "content": {
+            "visible": false,
+            "text": "Editor Web",
+            "url": "/admin/content"
+          },
+          "managePresales": {
+            "url": "/admin/presales",
+            "text": "Ventas",
+            "visible": true
+          },
+          "assistantTraining": {
+            "text": "Enseñar al Bot",
+            "visible": true,
+            "url": "/admin/assistant-training"
+          },
+          "chatHistory": {
+            "visible": true,
+            "text": "Consultas IA",
+            "url": "/admin/chat-history"
+          }
+        },
+        "logoUrl": "/logo.jpg"
+      },
+      "adminSettingsPage": {
+        "themeSelector": {
+          "toast": {
+            "title": "Tema aplicado:",
+            "description": "Se han actualizado los estilos globales."
+          },
+          "description": "Cambia los colores y el estilo de la web.",
+          "title": "Identidad Visual"
+        },
+        "pricingCard": {
+          "title": "Precios de Recargas",
+          "form": {
+            "maxGuests": {
+              "label": "Límite de Pedidos Mensuales"
+            },
+            "couple": {
+              "label": "Cilindro 25lbs"
+            },
+            "placeholder": "Precio en colones",
+            "six": {
+              "label": "Cilindro 100lbs"
+            },
+            "eight": {
+              "label": "Servicio Técnico"
+            },
+            "four": {
+              "label": "Cilindro 50lbs"
+            }
+          },
+          "description": "Gestiona los precios vigentes de los cilindros."
+        },
+        "mainTitle": "Centro de Mando",
+        "buttons": {
+          "save": "Guardar Ajustes",
+          "saving": "Guardando..."
+        },
+        "toast": {
+          "saveSuccess": {
+            "title": "Ajustes Guardados",
+            "description": "La configuración se actualizó correctamente."
+          },
+          "error": {
+            "title": "Error",
+            "description": "No se pudieron guardar los cambios."
+          }
+        },
+        "signupCard": {
+          "description": "Configura las reglas para nuevos usuarios.",
+          "form": {
+            "countryCode": {
+              "label": "Código de País por Defecto",
+              "hint": "Código ISO para el teclado de WhatsApp.",
+              "placeholder": "ej. CR"
+            }
+          },
+          "title": "Registro de Clientes"
+        }
+      },
+      "guestManagementPage": {
+        "addGuestModal": {
+          "form": {
+            "name": {
+              "label": "Nombre Completo",
+              "placeholder": "ej. Juan Pérez"
+            },
+            "type": {
+              "label": "Type",
+              "child": "Niño",
+              "placeholder": "Seleccionar...",
+              "adult": "Adulto"
+            },
+            "id": {
+              "placeholder": "x-xxxx-xxxx",
+              "label": "Cédula / ID"
+            }
+          },
+          "description": "Ingresa los datos de la persona que estará en locación.",
+          "validation": {
+            "idRequired": "La identificación es obligatoria para adultos.",
+            "nameRequired": "El nombre es obligatorio.",
+            "typeRequired": "El tipo es obligatorio."
+          },
+          "title": "Añadir Personal / Talento"
+        },
+        "title": "Gestión de Pedidos",
+        "description": "Administra el personal y los detalles de tus pedidos.",
+        "addGuestButton": "Añadir Personal",
+        "toast": {
+          "guestRemoved": {
+            "title": "Personal Eliminado",
+            "description": "El registro ha sido removido."
+          },
+          "guestAdded": {
+            "title": "Personal Añadido",
+            "description": "Se ha registrado correctamente."
+          }
+        },
+        "addReservationModal": {
+          "description": "Selecciona las fechas para tu próxima producción.",
+          "form": {
+            "end": {
+              "label": "Fecha de Finalización"
+            },
+            "start": {
+              "label": "Fecha de Inicio"
+            },
+            "notes": {
+              "placeholder": "Detalles del equipo, locación, etc.",
+              "label": "Notas Técnicas"
+            }
+          },
+          "title": "Programar Rodaje",
+          "toast": {
+            "success": {
+              "description": "El rodaje ha sido registrado con éxito.",
+              "title": "Proyecto Agendado"
+            },
+            "validationError": {
+              "description": "Por favor selecciona las fechas."
+            },
+            "error": "No se pudo agendar el proyecto."
+          },
+          "buttons": {
+            "add": "Programar",
+            "adding": "Programando..."
+          }
+        }
+      },
+      "footer": {
+        "copyright": "© {year} Nitro Gas CR. Todos los derechos reservados.",
+        "googleUrl": "Nitro Gas CR",
+        "developedBy": "Desarrollado por Crea Tu App CR",
+        "developedByUrl": "https://creatuappcr.com",
+        "community": "Comunidad",
+        "whatsappCommunityUrl": "https://wa.me/50688277695"
+      },
+      "assistantTrainingPage": {
+        "noDoubts": {
+          "description": "No hay consultas pendientes de revisión.",
+          "title": "Conocimiento completo"
+        },
+        "instructions": {
+          "description": "Edita directamente el cerebro del asistente.",
+          "saveButton": "Guardar Cerebro",
+          "placeholder": "Ingresa las instrucciones aquí...",
+          "title": "Instrucciones del Sistema"
+        },
+        "toast": {
+          "statusUpdateError": "No se pudo actualizar el estado.",
+          "statusUpdated": {
+            "title": "Estado Actualizado",
+            "validated": "Marcado como validado.",
+            "notValidated": "Marcado como pendiente."
+          },
+          "fetchError": "Error al cargar las dudas.",
+          "instructionsSaved": {
+            "description": "Las nuevas instrucciones están activas.",
+            "title": "Cerebro Actualizado"
+          },
+          "deleted": {
+            "title": "Eliminado",
+            "description": "Consulta borrada correctamente."
+          },
+          "instructionsSaveError": "Error al guardar instrucciones.",
+          "errorTitle": "Error",
+          "deleteError": "No se pudo eliminar la consulta."
+        },
+        "mainTitle": "Entrenamiento del Asistente",
+        "logged": "Registrado",
+        "cardDescription": "Revisa las dudas que la IA no pudo contestar y mejora su conocimiento.",
+        "validated": "Validado",
+        "deleteDialog": {
+          "deleteButton": "Eliminar",
+          "description": "Esta acción borrará el registro permanentemente.",
+          "title": "¿Eliminar consulta?"
+        },
+        "cardTitle": "Consultas No Resueltas"
+      },
+      "profilePage": {
+        "toast": {
+          "invalidPhone": {
+            "description": "Ingresa un número de WhatsApp real.",
+            "title": "Teléfono Inválido"
+          },
+          "invalidNationalId": {
+            "title": "ID Requerido",
+            "description": "La cédula es necesaria para facturación."
+          },
+          "fetchError": {
+            "description": "No pudimos obtener tus datos.",
+            "title": "Error de Carga"
+          },
+          "updateSuccess": {
+            "description": "Cambios guardados con éxito.",
+            "title": "Perfil Actualizado"
+          },
+          "updateError": {
+            "title": "Fallo al actualizar",
+            "description": "No se pudieron guardar los cambios."
+          }
+        },
+        "buttons": {
+          "save": "Guardar Perfil",
+          "saving": "Actualizando..."
+        },
+        "mainTitle": "Perfil de Cliente",
+        "cardDescription": "Gestiona tus datos profesionales y preferencias.",
+        "form": {
+          "nationalId": {
+            "label": "Cédula / ID",
+            "placeholder": "x-xxxx-xxxx"
+          },
+          "phone": {
+            "label": "WhatsApp de Contacto"
+          },
+          "name": {
+            "label": "Nombre Completo",
+            "placeholder": "ej. Juan Pérez"
+          },
+          "language": {
+            "label": "Idioma de Interfaz",
+            "placeholder": "Seleccionar idioma..."
+          },
+          "email": {
+            "label": "Email de Registro"
+          }
+        }
+      },
+      "business": {
+        "phoneFormatted": "+506 8827 7695",
+        "phone": "88277695",
+        "address": "San Rafael Arriba, Alajuelita, San José, Costa Rica",
+        "name": "Nitro Gas CR",
+        "email": "nitrogascr@gmail.com",
+        "location": {
+          "lat": 9.89814,
+          "lng": -84.098396
+        },
+        "whatsappUrl": "https://wa.me/50688277695",
+        "hours": "Servicio Express"
+      },
+      "userManagementPage": {
+        "searchPlaceholder": "Buscar por nombre, correo o teléfono...",
+        "mainTitle": "Gestión de Clientes",
+        "roles": {
+          "selectPlaceholder": "Nivel",
+          "admin": "Admin",
+          "user": "Cliente"
+        },
+        "reservationsModal": {
+          "title": "Proyectos de",
+          "copyGuestsButton": "Copiar Requerimientos",
+          "description": "Fechas de rodaje y entregas programadas.",
+          "noReservations": "No hay proyectos activos.",
+          "toast": {
+            "copyError": "Error al copiar.",
+            "copied": "Información copiada."
+          }
+        },
+        "noPreusers": "No hay leads manuales todavía.",
+        "tabs": {
+          "preusers": "Leads Manuales",
+          "users": "Clientes Registrados"
+        },
+        "table": {
+          "columns": {
+            "name": "Cliente",
+            "actions": "Acciones",
+            "email": "Correo",
+            "phone": "WhatsApp",
+            "role": "Nivel"
+          }
+        },
+        "logModal": {
+          "noLogsFound": "Sin actividad reciente.",
+          "toast": {
+            "copyError": "Error al copiar.",
+            "copied": "Datos copiados."
+          },
+          "logDetails": {
+            "fromRole": "De",
+            "changes": "Cambios",
+            "method": "Origen",
+            "changedBy": "Por",
+            "noChanges": "Sin cambios.",
+            "updatedBy": "Admin",
+            "toRole": "A"
+          },
+          "title": "Actividad",
+          "description": "Movimientos del cliente en la plataforma."
+        },
+        "deleteUserModal": {
+          "title": "¿Eliminar cliente?",
+          "description": "Esta acción borrará al usuario y su historial de proyectos."
+        },
+        "tooltips": {
+          "pendingAlert": "El cliente ha actualizado requerimientos."
+        },
+        "createUserModal": {
+          "preuserSuccessToast": {
+            "title": "Lead Registrado",
+            "description": "El contacto {name} ha sido guardado para seguimiento."
+          },
+          "validationError": "Se requiere nombre y teléfono.",
+          "successToast": {
+            "title": "Cliente Creado",
+            "description": "Usuario {email} listo. Contraseña: {password}."
+          },
+          "description": "Añade un prospecto o un cliente fijo.",
+          "form": {
+            "sendPromotion": "Enviar Pack de Bienvenida",
+            "selectPromotion": "Elegir oferta",
+            "emailOptional": "Correo (Opcional)"
+          },
+          "title": "Crear Nuevo Contacto"
+        },
+        "editModal": {
+          "title": "Editar Cliente",
+          "description": "Actualiza los datos de contacto.",
+          "form": {
+            "name": "Nombre",
+            "phone": "WhatsApp",
+            "email": "Correo"
+          }
+        },
+        "editReservationModal": {
+          "description": "Cambia las fechas de producción.",
+          "toast": {
+            "success": "Proyecto actualizado.",
+            "validation": "Fechas obligatorias.",
+            "error": "Error al actualizar."
+          },
+          "title": "Reprogramar"
+        },
+        "assignReservationModal": {
+          "notificationMessage": "¡Hola {name}! Hemos agendado tu rodaje para los días seleccionados. Puedes ver los detalles técnicos y requerimientos aquí: {link}",
+          "toast": {
+            "validationError": {
+              "description": "Debes elegir las fechas de rodaje.",
+              "title": "Error"
+            },
+            "saveSuccess": {
+              "description": "Las fechas han sido reservadas en el calendario.",
+              "title": "Proyecto Agendado"
+            },
+            "saveError": "Error al agendar."
+          },
+          "title": "Agendar Proyecto a",
+          "description": "Establece los días de rodaje.",
+          "form": {
+            "sendNotification": {
+              "label": "Notificar al cliente vía WhatsApp."
+            },
+            "start": {
+              "label": "Días de Producción"
+            },
+            "notes": {
+              "placeholder": "ej., Dirección de locación, equipo necesario...",
+              "label": "Detalles Técnicos"
+            },
+            "end": {
+              "label": "Fin de Rodaje"
+            }
+          }
+        },
+        "toast": {
+          "invalidPhone": {
+            "title": "Teléfono Erróneo",
+            "description": "WhatsApp no válido."
+          },
+          "success": {
+            "roleUpdate": "Nivel de cliente actualizado.",
+            "title": "Éxito"
+          },
+          "error": {
+            "fetchLogsError": "Error en logs.",
+            "fetchUsersError": "No se cargaron los clientes.",
+            "title": "Error",
+            "roleUpdateError": "Error al cambiar nivel.",
+            "userUpdateError": "Error al guardar."
+          },
+          "userUpdated": {
+            "title": "Actualizado",
+            "description": "Datos del cliente guardados."
+          },
+          "actionForbidden": {
+            "title": "Prohibido",
+            "description": "No puedes degradar al superadmin."
+          }
+        },
+        "buttons": {
+          "deleteUser": "Eliminar",
+          "saving": "Guardando...",
+          "saveChanges": "Guardar",
+          "whatsapp": "WhatsApp",
+          "logTooltip": "Historial",
+          "createUser": "Crear Contacto",
+          "cancel": "Cancelar",
+          "viewReservations": "Ver Proyectos",
+          "editTooltip": "Editar",
+          "close": "Cerrar",
+          "assignReservation": "Agendar Rodaje"
+        },
+        "cardTitle": "Directorio",
+        "whatsappModal": {
+          "promotionLabel": "Oferta",
+          "messageLabel": "Cuerpo del Mensaje",
+          "saveTemplateButton": "Guardar Plantilla",
+          "shareButton": "Compartir",
+          "title": "Enviar Mensaje a",
+          "sendButton": "Abrir WhatsApp",
+          "copySuccess": "¡Copiado!",
+          "description": "Usa plantillas profesionales para responder.",
+          "promotionPlaceholder": "Seleccionar pack...",
+          "messagePlaceholder": "Tu respuesta...",
+          "copyButton": "Copiar",
+          "templateLabel": "Plantilla",
+          "templatePlaceholder": "Elegir..."
+        },
+        "cardDescription": "Administra los usuarios registrados y leads de preventa."
+      },
+      "testimonialsAdminPage": {
+        "card": {
+          "public": "Público",
+          "hidden": "Oculto",
+          "featured": "Destacado"
+        },
+        "toast": {
+          "visibilityUpdated": {
+            "description": "The testimonial is now {status}.",
+            "title": "Visibility Updated"
+          },
+          "deleteSuccess": "Testimonial removed.",
+          "featuredUpdated": {
+            "description": "Testimonial is now {status}.",
+            "title": "Featured Updated"
+          }
+        },
+        "mainTitle": "Gestión de Prueba Social"
+      },
+      "loginPage": {
+        "title": "Iniciar Sesión",
+        "description": "Ingresa tus credenciales para gestionar tus proyectos",
+        "errors": {
+          "wrongPassword": "La contraseña es incorrecta.",
+          "userNotFound": "No encontramos ninguna cuenta con este correo.",
+          "default": "Ocurrió un error al intentar iniciar sesión. Inténtalo de nuevo.",
+          "invalidCredential": "El correo o la contraseña son incorrectos. Por favor, verifica tus datos.",
+          "tooManyRequests": "Demasiados intentos fallidos. Tu cuenta ha sido bloqueada temporalmente por seguridad."
+        },
+        "form": {
+          "forgotPasswordLink": "¿Olvidó su contraseña?",
+          "email": {
+            "label": "Correo Electrónico"
+          },
+          "password": {
+            "label": "Contraseña"
+          }
+        },
+        "footerText": "Nitro Gas CR • Servicio Express",
+        "noAccount": {
+          "text": "¿No tiene una cuenta? ",
+          "link": "Registrarse"
+        },
+        "toast": {
+          "success": {
+            "title": "Bienvenido",
+            "description": "¡Hola de nuevo!"
+          },
+          "error": {
+            "title": "Error de Acceso"
+          },
+          "completeProfile": {
+            "description": "Proporciona unos detalles más para brindarte un mejor servicio.",
+            "title": "Completa tu Perfil"
+          }
+        },
+        "buttons": {
+          "google": "Ingresar con Google",
+          "submit": "Entrar"
+        }
+      },
+      "hero": {
+        "backgroundVideoUrl": {
+          "url": "/hero.mp4",
+          "visible": false
+        },
+        "overlayText": false,
+        "title2": "Seguridad Garantizada",
+        "subtitle": "Desde Alajuelita a toda la GAM. Tu recarga de confianza con solo un WhatsApp.",
+        "buttons": {
+          "instagram": {
+            "url": "https://www.instagram.com/nitrogascr",
+            "visible": true
+          },
+          "book": {
+            "text": "Solicitar Servicio",
+            "visible": true,
+            "url": "/#booking"
+          },
+          "youtube": {
+            "url": "https://youtube.com/@nitrogascr",
+            "visible": true
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/share/1Cgzo4BaYk/",
+            "visible": true
+          },
+          "promotions": {
+            "visible": false,
+            "text": "Ofertas",
+            "url": "/#promotions"
+          },
+          "whatsapp": {
+            "message": "¡Hola Nitro Gas CR! Necesito una recarga express de cilindro.",
+            "text": "WhatsApp",
+            "visible": true,
+            "url": "https://wa.me/50688277695"
+          },
+          "explore": {
+            "url": "/#services",
+            "visible": false,
+            "text": "Explorar Servicios"
+          },
+          "airbnb": {
+            "visible": false,
+            "text": "Ver Precios",
+            "url": "/#services"
+          },
+          "tiktok": {
+            "visible": true,
+            "url": "https://www.tiktok.com/@nitrogascr"
+          }
+        },
+        "subtitle3": "Nuestra flota Nitro está lista para servirte en San José y Heredia.",
+        "subtitle1": "Llegamos a tu cocina en tiempo récord con pesaje verificado.",
+        "subtitle2": "Equipos certificados y personal experto en prevención de fugas.",
+        "title3": "Rapidez en cada Entrega",
+        "backgroundImageUrl": "/fondo.jpg",
+        "title1": "Recargas de Gas ",
+        "loading": "Cargando Motores Nitro...",
+        "title": "Gas LP a Domicilio"
+      },
+      "booking": {
+        "title": "Pide tu Gas Nitro Gas CR",
+        "form": {
+          "details": {
+            "required": "Dinos qué tamaño de cilindro necesitas.",
+            "label": "Detalle del Pedido",
+            "ideas": [
+              "Necesito un cilindro de 25lbs en Alajuelita...",
+              "Ocupo instalación de manguera y regulador...",
+              "Recarga express nocturna para cocina de casa..."
+            ],
+            "placeholder": "ej. Cilindro de 25lbs, necesito también un regulador..."
+          },
+          "phone": {
+            "placeholder": "ej. 8888-8888",
+            "invalid": "Ingresa un número de WhatsApp válido.",
+            "label": "WhatsApp de Contacto"
+          },
+          "time": {
+            "label": "Horario Preferido (Opcional)",
+            "morning": "Mañana (8am - 12pm)",
+            "placeholder": "Elegir horario...",
+            "afternoon": "Tarde (12pm - 5pm)",
+            "emergency": "Urgente / Lo antes posible",
+            "evening": "Noche (5pm - 10pm)"
+          },
+          "address": {
+            "placeholder": "Escribe tu dirección exacta para el reparto...",
+            "label": "Dirección de Entrega",
+            "required": "Indica tu dirección exacta para el reparto."
+          },
+          "name": {
+            "placeholder": "ej. Juan Pérez",
+            "label": "Nombre del Cliente",
+            "required": "El nombre es necesario para la entrega."
+          },
+          "email": {
+            "placeholder": "para facturación electrónica",
+            "label": "Correo (Opcional)",
+            "invalid": "Correo no válido."
+          },
+          "location": {
+            "placeholder": "Busca tu dirección o arrastra el marcador...",
+            "gpsActive": "GPS Nitro Activado",
+            "label": "Ubicación de Entrega",
+            "mapError": "El mapa no pudo cargar. Por favor ingresa tu dirección manual detallada abajo.",
+            "detectButton": "Mi ubicación actual",
+            "searchPlaceholder": "Escribe una dirección..."
+          },
+          "date": {
+            "label": "Rango de Fechas (Opcional)",
+            "placeholder": "Seleccionar fechas sugeridas..."
+          }
+        },
+        "description": "Indica tu ubicación exacta para que nuestro repartidor Nitro llegue en tiempo récord.",
+        "toast": {
+          "success": {
+            "description": "Nitro Gas CR está procesando tu solicitud. Te escribiremos al WhatsApp en segundos.",
+            "title": "¡Pedido Recibido!"
+          },
+          "error": {
+            "title": "Error",
+            "description": "No se pudo enviar el pedido. Revisa tu conexión."
+          },
+          "locationError": {
+            "description": "No pudimos acceder a tu GPS.",
+            "title": "Error de ubicación"
+          }
+        },
+        "buttons": {
+          "submit": "Confirmar Pedido Express",
+          "aiAssistant": "Solicitar por IA"
+        }
+      },
+      "properties": {
+        "buttons": {
+          "checkAvailability": "Solicitar Recarga"
+        },
+        "gallery": {
+          "items": [],
+          "title": "Nitro en Acción",
+          "description": "Nuestra flota y equipo listos para servirte en cualquier punto de la GAM."
+        },
+        "items": [
+          {
+            "title_en": "Home Refills",
+            "title_es": "Recargas a Domicilio",
+            "amenities_en": [
+              "Fast Delivery",
+              "Leak Inspection",
+              "Guaranteed Weight"
+            ],
+            "description_es": "Servicio express de recarga de cilindros metálicos. Enviamos tu gas en minutos con transporte seguro y pesaje verificado.",
+            "amenities_es": [
+              "Entrega Rápida",
+              "Revisión de Fugas",
+              "Peso Garantizado"
+            ],
+            "type": "video",
+            "description_en": "Express refill service for metallic cylinders. We send your gas in minutes with safe transportation and verified weight.",
+            "category": "service",
+            "id": "1",
+            "mediaSrc": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80"
+          }
+        ],
+        "loadingText": "Iniciando Nitro 4K",
+        "description": "Especialistas en Gas LP para hogares y comercios con entrega inmediata y soporte técnico.",
+        "title": "Nuestros Servicios"
+      },
+      "migrateContentPage": {
+        "toast": {
+          "error": {
+            "title": "Error en Sincronización"
+          },
+          "success": {
+            "title": "Sincronización Exitosa"
+          }
+        },
+        "mainTitle": "Sincronización de Contenido",
+        "alert": {
+          "description": "Esto sobrescribirá la base de datos en la nube con las definiciones locales.",
+          "title": "Acción Crítica"
+        },
+        "cardTitle": "Web Synchronizer"
+      },
+      "analyticsPage": {
+        "eventNames": {
+          "page_view": "Vista de Página",
+          "airbnb_button_click": "Airbnb Click",
+          "whatsapp_button_click": "WhatsApp Click",
+          "check_availability_button_click": "Quote Button Click",
+          "promotion_button_click": "Offer Click",
+          "date_change": "Date Changed",
+          "facebook_button_click": "FB Click",
+          "submit_booking_form_click": "Form Sent",
+          "booking_form_interaction": "Form Interaction",
+          "tiktok_button_click": "TikTok Click",
+          "presale_submission": "New Video Lead",
+          "guests_change": "Video Type Changed"
+        },
+        "log": {
+          "actions": "View",
+          "user": "User",
+          "title": "Log de Actividad",
+          "guest": "Visitante",
+          "eventHistoryFor": "Navigation path for",
+          "time": "When",
+          "description": "What users are doing right now.",
+          "page": "Route",
+          "events": "eventos",
+          "event": "Action",
+          "viewDetails": "Ver flujo"
+        },
+        "modal": {
+          "close": "Close",
+          "title": "Interaction Details",
+          "details": "Metadata"
+        },
+        "stats": {
+          "totalVisits": "Visitas Únicas",
+          "bookingSubmissions": "Pedidos Enviados",
+          "buttonClicks": "Click en Botones"
+        },
+        "charts": {
+          "noEvents": "Sin actividad registrada",
+          "eventBreakdown": "Desglose de Eventos"
+        },
+        "mainTitle": "Analíticas Nitro Gas CR",
+        "timeRange": {
+          "yesterday": "Ayer",
+          "day": "Hoy",
+          "month": "Mes",
+          "week": "Semana"
+        }
+      },
+      "errorLogPage": {
+        "deleteAllDialog": {
+          "description": "Se borrarán todos los registros de errores del sistema.",
+          "title": "¿Limpiar todo el historial?"
+        },
+        "stackTrace": "Traza de Error",
+        "context": "Contexto del Error",
+        "noUnread": "Sistema Estable",
+        "mainTitle": "Diagnóstico de Errores",
+        "toast": {
+          "deleteAllError": "Error al vaciar la base de datos.",
+          "markedUnread": "Fallo reabierto.",
+          "fetchError": "Error al cargar la bitácora.",
+          "markedRead": "Fallo marcado como resuelto.",
+          "noErrorsToDelete": "No hay errores para borrar.",
+          "deleteError": "No se pudo borrar el registro.",
+          "deleteAllSuccess": "Historial de errores vaciado.",
+          "deleteSuccess": "Registro eliminado.",
+          "updateError": "Error al actualizar estado."
+        },
+        "buttons": {
+          "markRead": "Resolver",
+          "deleteAll": "Limpiar Historial",
+          "delete": "Eliminar",
+          "deleteAllConfirm": "Confirmar Limpieza",
+          "markUnread": "Reabrir"
+        },
+        "status": {
+          "unread": "Crítico",
+          "read": "Resuelto"
+        },
+        "noRead": "Archivo Vacío",
+        "deleteDialog": {
+          "title": "¿Eliminar registro?",
+          "description": "Borrar este fallo específico de la bitácora."
+        },
+        "tabs": {
+          "read": "Archivo",
+          "unread": "Nuevos Fallos"
+        }
+      },
+      "presalesPage": {
+        "noRequestsPending": "Todo al día.",
+        "tabs": {
+          "contacted": "Atendidos",
+          "pending": "Nuevos Pedidos"
+        },
+        "toast": {
+          "error": "Fallo en la acción.",
+          "statusUpdate": "Estado actualizado.",
+          "deleteSuccess": "Registro borrado."
+        },
+        "subtitle": "Control logístico y despacho express.",
+        "buttons": {
+          "email": "Email",
+          "delete": "Eliminar Pedido",
+          "waze": "Navegar Waze",
+          "shareDriver": "Enviar a Chofer",
+          "contacted": "Mark Atendido",
+          "whatsapp": "WhatsApp",
+          "pending": "Mover a Pendientes",
+          "call": "Llamar"
+        },
+        "deleteDialog": {
+          "description": "Esta acción no se puede deshacer.",
+          "title": "¿Eliminar registro?"
+        },
+        "mainTitle": "Gestión de Ventas",
+        "noRequestsContacted": "Sin historial de atención."
+      },
+      "geminiKeysPage": {
+        "deleteDialog": {
+          "description": "El asistente dejará de usar esta clave para procesar dudas.",
+          "title": "¿Eliminar motor?"
+        },
+        "buttons": {
+          "saveChanges": "Guardar Motor",
+          "delete": "Quitar",
+          "create": "Añadir Motor",
+          "calculateRequests": "Calcular Carga",
+          "edit": "Editar"
+        },
+        "mainTitle": "AI Intelligence Engines",
+        "toast": {
+          "saveError": "Fallo al guardar la llave.",
+          "fetchError": "Error al cargar las llaves.",
+          "deleteSuccess": "Motor desconectado.",
+          "updateSuccess": "Motor actualizado.",
+          "deleteError": "No se pudo quitar el motor.",
+          "createSuccess": "Motor vinculado."
+        },
+        "editModal": {
+          "title": "Modificar Motor"
+        },
+        "createModal": {
+          "title": "Vincular Nuevo Motor"
+        },
+        "form": {
+          "name": {
+            "label": "Nombre del Motor",
+            "placeholder": "ej. Producción Flash"
+          },
+          "apiKey": {
+            "placeholder": "Pega la clave aquí...",
+            "label": "Google API Key"
+          },
+          "enabled": {
+            "label": "Activo en Rotación"
+          },
+          "lastError": {
+            "label": "Diagnóstico"
+          },
+          "modelName": {
+            "label": "ID del Modelo",
+            "placeholder": "gemini-1.5-flash-latest"
+          }
+        },
+        "requestsToday": "Requests Today"
+      },
+      "promotions": {
+        "tabs": {
+          "upcoming": "Activas",
+          "past": "Anteriores"
+        },
+        "buttons": {
+          "contact": "Pedir con Descuento",
+          "share": "Compartir Oferta"
+        },
+        "noPast": "No hay registro de ofertas pasadas.",
+        "description": "Descuentos exclusivos en recargas y kits de instalación para nuestros clientes frecuentes.",
+        "noUpcoming": "Sin ofertas activas. ¡Vuelve pronto por tu descuento Nitro Gas CR!",
+        "whatsappMessage": "¡Hola Nitro Gas CR! Vi la oferta de \"{title}\" en la web y la quiero aplicar.",
+        "title": "Promociones Nitro Gas CR",
+        "share": {
+          "notSupported": {
+            "description": "Tu dispositivo no permite compartir directamente.",
+            "title": "No soportado"
+          }
+        }
+      }
+    }
+  },
+  "guides": {
+    "2X8Qpx0SUuvZlLjNYSRa": {
+      "userEmail": "wilson2403@gmail.com",
+      "interests": "Gimnasio ",
+      "guide": {
+        "shotList": [
+          {
+            "name": "Plano Secuencia Dinámico con Steadicam",
+            "description": "Un plano secuencia fluido que sigue a un atleta a través de diferentes estaciones del gimnasio: desde el calentamiento, pasando por levantamiento de pesas, cardio y estiramientos, mostrando la variedad de equipos y el flujo de la actividad sin cortes abruptos."
+          },
+          {
+            "name": "Montaje de Detalles en Cámara Lenta",
+            "description": "Una secuencia de primeros planos y planos detalle en cámara lenta: gotas de sudor cayendo, músculos tensándose, el agarre firme de las pesas, la concentración en los ojos, el ritmo de los pies en la caminadora, transmitiendo la intensidad y la dedicación."
+          },
+          {
+            "name": "Toma Aérea/Drone del Gimnasio Lleno",
+            "description": "Si el espacio lo permite, una toma aérea (o desde un punto alto dentro del gimnasio) que revele la magnitud y el diseño moderno del lugar, mostrando a varios miembros interactuando y entrenando simultáneamente, capturando la energía colectiva y el ambiente vibrante."
+          }
+        ],
+        "marketingObjectives": [
+          {
+            "name": "Incrementar la Captación de Nuevos Miembros",
+            "description": "Generar un video que inspire a potenciales clientes a unirse al gimnasio, destacando un ambiente acogedor, equipos de última generación y resultados tangibles, impulsando las inscripciones y visitas de prueba."
+          },
+          {
+            "name": "Fortalecer el Posicionamiento de Marca del Gimnasio",
+            "description": "Crear una pieza audiovisual de alta calidad que diferencie al gimnasio de la competencia, proyectando una imagen de profesionalismo, innovación y comunidad, reforzando su identidad y valores en el mercado de Heredia y Costa Rica."
+          },
+          {
+            "name": "Fomentar el Sentido de Comunidad y Lealtad",
+            "description": "Producir un video que no solo atraiga, sino que también resuene con los miembros actuales, reforzando su sentido de pertenencia y orgullo por el gimnasio, lo que puede llevar a una mayor retención y recomendaciones boca a boca."
+          }
+        ],
+        "creativeConcepts": [
+          {
+            "name": "La Transformación Interior y Exterior",
+            "description": "Un concepto que sigue el viaje de un individuo (o varios) desde su llegada al gimnasio con una meta, mostrando su evolución física y mental. Se enfoca en la superación personal, el esfuerzo y la recompensa, culminando con una versión más fuerte y segura de sí mismo."
+          },
+          {
+            "name": "Comunidad en Movimiento",
+            "description": "Una narrativa que destaca el ambiente de apoyo y compañerismo del gimnasio. Muestra interacciones entre miembros y entrenadores, clases grupales llenas de energía y la sensación de pertenencia, enfatizando que no solo es un lugar para entrenar, sino una familia."
+          },
+          {
+            "name": "El Arte de la Fortaleza",
+            "description": "Un enfoque más estético y cinematográfico que eleva el ejercicio a una forma de arte. Tomas dramáticas, iluminación controlada, y el uso de cámara lenta para capturar la belleza del movimiento, la tensión muscular y la determinación en los rostros, resaltando la modernidad y profesionalismo de las instalaciones."
+          }
+        ]
+      },
+      "language": "es",
+      "timestamp": {
+        "nanoseconds": 769000000,
+        "seconds": 1771456616
+      }
+    },
+    "tuEixV0AyS56HIISwU1v": {
+      "interests": "gimnasio",
+      "guide": {
+        "shotList": [
+          {
+            "name": "Barrido de Esfuerzo Ascendente",
+            "description": "Un travelling lento y dramático que comienza en los pies de un atleta levantando pesas, subiendo por sus músculos tensos y el sudor, hasta culminar en una expresión de concentración y triunfo en su rostro, seguido de un corte rápido al peso descendiendo controladamente."
+          },
+          {
+            "name": "Coreografía Energética Aérea",
+            "description": "Una toma aérea fluida (posiblemente con dron o grúa alta) que captura la sincronización y el dinamismo de una clase grupal (ej. spinning, zumba o funcional), mostrando la energía colectiva y el movimiento coordinado de múltiples participantes."
+          },
+          {
+            "name": "Detalle del Progreso y la Conexión",
+            "description": "Una secuencia de primeros planos íntimos: manos enguantadas agarrando una barra, la respiración profunda de un entrenador, el conteo final de repeticiones, y un choque de puños o un saludo entre miembros, simbolizando apoyo y logros compartidos."
+          }
+        ],
+        "marketingObjectives": [
+          {
+            "name": "Aumentar la Captación de Nuevos Miembros",
+            "description": "Generar interés y motivar a potenciales clientes a inscribirse, mostrando el gimnasio como un espacio inspirador, profesional y acogedor para lograr sus objetivos de salud y bienestar."
+          },
+          {
+            "name": "Fortalecer la Identidad de Marca y Lealtad",
+            "description": "Comunicar los valores únicos del gimnasio (comunidad, resultados, profesionalismo) para fomentar un sentido de pertenencia entre los miembros actuales y reforzar la imagen de marca diferenciada en el mercado de Heredia."
+          },
+          {
+            "name": "Posicionar el Gimnasio como Referente en Fitness",
+            "description": "Destacar la calidad de las instalaciones, el equipo humano y la experiencia general para establecer el gimnasio como la opción preferente y líder en la industria del fitness en la región."
+          }
+        ],
+        "creativeConcepts": [
+          {
+            "name": "La Ruta de la Transformación Personal",
+            "description": "Un enfoque narrativo que sigue a varios individuos en su viaje de bienestar dentro del gimnasio, destacando no solo el cambio físico sino también la fortaleza mental, la superación y la energía renovada. Mostrar el 'antes' sutilmente y el 'después' empoderado."
+          },
+          {
+            "name": "Comunidad en Movimiento",
+            "description": "Un concepto visual que celebra la vibrante energía y el espíritu de camaradería del gimnasio. Mostrar clases grupales llenas de energía, interacciones positivas entre miembros y entrenadores, y la sensación de pertenencia que ofrece el espacio."
+          },
+          {
+            "name": "Excelencia y Rendimiento Elevado",
+            "description": "Una aproximación que enfatiza la calidad de las instalaciones, el equipo de última generación y la profesionalidad de los entrenadores. Resaltar la dedicación y el enfoque en resultados, posicionando el gimnasio como el lugar ideal para alcanzar metas ambiciosas de fitness."
+          }
+        ]
+      },
+      "userEmail": "wilson2403@hotmail.com",
+      "language": "es",
+      "timestamp": {
+        "nanoseconds": 339000000,
+        "seconds": 1771384172
+      }
+    }
+  },
+  "presales": {
+    "7ev4LnnvKJbeIEHRnP9b": {
+      "status": "contacted",
+      "phone": "+50687992560",
+      "location": {
+        "lng": -84.06822249044235,
+        "lat": 9.848959281593821
+      },
+      "email": "wilson2403@gmail.com",
+      "name": "wilson Alfaro",
+      "dateRange": {
+        "from": "2026-03-11T06:00:00.000Z"
+      },
+      "details": "prueba prueba prueba",
+      "preferredTime": "afternoon",
+      "address": "RWXJ+FHP, C. Sabanillas, San José, Desamparados, Costa Rica",
+      "createdAt": {
+        "seconds": 1773170989,
+        "nanoseconds": 246000000
+      }
+    },
+    "s2xPShG4HTvnkRE0w2m0": {
+      "email": "",
+      "createdAt": {
+        "seconds": 1772938260,
+        "nanoseconds": 699000000
+      },
+      "name": "Enrique Ruano",
+      "details": "Cambio de cilindro pequeño residencial. Ubicación: Avenida 8, Calle 20, contiguo a Cremación y funeraria Monte Santo. Cerca del edificio de la Junta de Protección Social.",
+      "status": "contacted",
+      "phone": "6059-3387"
+    }
+  },
+  "promotions": {
+    "Zrclzt4Fhqzjc95mzBpN": {
+      "aspectRatio": "horizontal",
+      "type": "image",
+      "discount_es": "20%",
+      "validUntil": {
+        "nanoseconds": 0,
+        "seconds": 1772258400
+      },
+      "discount_en": "20%",
+      "id": "Zrclzt4Fhqzjc95mzBpN",
+      "imageUrl": "/cilindros.jpeg",
+      "title_en": "San Valentin Offers",
+      "createdAt": {
+        "nanoseconds": 805000000,
+        "seconds": 1771384694
+      },
+      "title_es": "Promocion San Valentin",
+      "imageHint": "promocion de cilindros",
+      "description_en": "San Valentin Offers",
+      "description_es": "San Valentin Offers",
+      "status": "upcoming"
+    }
+  },
+  "reservations": {
+    "yRnrEto9RtU4OTUeccQ6": {
+      "userName": "Sharon Zuñiga Valerio ",
+      "end": {
+        "seconds": 1772431200,
+        "nanoseconds": 0
+      },
+      "start": {
+        "seconds": 1772431200,
+        "nanoseconds": 0
+      },
+      "userEmail": "shay200sx@hotmail.com",
+      "notes": "",
+      "guestsLocked": false,
+      "guests": [],
+      "userId": "DyEj1aZ1aqhMhrycqFehZ55gaKZ2",
+      "createdAt": {
+        "seconds": 1772254806,
+        "nanoseconds": 754000000
+      }
+    }
+  },
+  "settings": {
+    "assistant": {
+      "instructions": "Eres el asistente de IA de Nitro Gas GLP, una empresa profesional de suministro y servicios de gas en Costa Rica.\nTu objetivo principal es guiar a los clientes potenciales para que elijan el servicio de gas que mejor se adapte a sus necesidades, explicar nuestros servicios y ayudarlos a obtener una cotización preliminar.\n\n== Servicios Principales ==\nCambio de cilindro residencial: Reemplazo de cilindros de gas para cocinas y hogares.\nInstalación y revisión de gas: Instalación de cilindros, reguladores, mangueras y revisión de posibles fugas.\nSuministro de gas para empresas: Servicio de gas para restaurantes, sodas, hoteles y comercios.\n\n== Instrucciones Primarias ==\nNunca des un precio final.\nLos costos del servicio de gas son variables. En su lugar, haz preguntas para entender el alcance del servicio, por ejemplo:\n“¿El servicio es para una casa o para un negocio?” o “¿Qué tipo de cilindro utilizas actualmente?” o “¿En qué zona te encuentras?”.\nTu objetivo es generar un lead.\nLa meta principal es recopilar la información de contacto del usuario (nombre, teléfono y zona) para que nuestro equipo pueda contactarlo con una cotización formal y precisa.\nSi no puedes responder, registra la pregunta.\nSi un usuario hace una pregunta técnica específica que no puedes contestar (por ejemplo: presión exacta de reguladores, normativas técnicas, compatibilidad con equipos especiales), DEBES usar la herramienta logUnresolvedQuery para registrar la consulta.\n\nLuego, informa al usuario:\n“Esa es una excelente pregunta. No tengo ese detalle específico, pero la he registrado para nuestro equipo técnico. Para darte la mejor respuesta, ¿podrías facilitarme tu nombre y un número de contacto?”."
+    },
+    "backup": {
+      "lastBackupDate": "2026-03-10",
+      "backupLimit": 100,
+      "backupHour": 23
+    },
+    "pricing": {
+      "maxGuests": "7",
+      "couple": {
+        "price": "30000",
+        "enabled": true
+      },
+      "four": {
+        "price": "60000",
+        "enabled": true
+      },
+      "eight": {
+        "price": "100000",
+        "enabled": true
+      },
+      "six": {
+        "price": "80000",
+        "enabled": true
+      }
+    },
+    "signup": {
+      "defaultCurrency": "CRC",
+      "defaultCountry": "CR"
+    },
+    "theme": {
+      "accent": "225 80% 40%",
+      "primary": "15 100% 40%",
+      "name": "Llama Profunda",
+      "type": "light",
+      "background": "0 0% 100%"
+    }
+  },
+  "users": {
+    "bR4S5xMDeeP6tyk7C1G2wgLmfEA3": {
+      "phone": "",
+      "role": "user",
+      "photoURL": null,
+      "nationalId": "",
+      "name": "Wilson Alfaro Badilla",
+      "language": "en",
+      "email": "wilson2403@hotmail.com"
+    },
+    "nitrogasglp@gmail.com": {
+      "uid": "Z9xqNCHeGIOAhL58jJ3dDIZqfYj1",
+      "email": "nitrogasglp@gmail.com",
+      "themePrimary": "15 90% 45%",
+      "themeBackground": "225 40% 99%",
+      "theme": "light",
+      "role": "admin",
+      "themeName": "Nitro Classic (Blue Focus)",
+      "phone": "+50688078811",
+      "isEditMode": true,
+      "hasSeenWelcomeModal": true,
+      "language": "es",
+      "name": "Kevin Douglas Valverde Agüero ",
+      "themeAccent": "225 85% 45%"
+    },
+    "shay200sx@hotmail.com": {
+      "phone": "+50671044804",
+      "role": "admin",
+      "uid": "DyEj1aZ1aqhMhrycqFehZ55gaKZ2",
+      "hasSeenWelcomeModal": true,
+      "language": "es",
+      "name": "Sharon Zuñiga Valerio ",
+      "email": "shay200sx@hotmail.com"
+    },
+    "wilson2403@gmail.com": {
+      "themeAccent": "225 85% 45%",
+      "language": "es",
+      "name": "wilson Alfaro",
+      "hasSeenWelcomeModal": true,
+      "isEditMode": false,
+      "role": "admin",
+      "themeName": "Nitro Classic (Blue Focus)",
+      "phone": "+50687992560",
+      "email": "wilson2403@gmail.com",
+      "hasPendingAlert": true,
+      "nationalId": "114600274",
+      "uid": "fuxA09g5IneNhJIOa3hrKxS3T7v1",
+      "theme": "light",
+      "themeBackground": "225 40% 99%",
+      "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocLLlcPcvA2-iax3Qq2zlGuV-Ydc3CZ1Hl8zWQjMTPcooIKoRv4U=s96-c",
+      "themePrimary": "15 90% 45%"
+    },
+    "wilson2403@hotmail.com": {
+      "theme": "light",
+      "themePrimary": "15 90% 45%",
+      "themeBackground": "225 40% 99%",
+      "email": "wilson2403@hotmail.com",
+      "hasPendingAlert": false,
+      "nationalId": "114600274",
+      "uid": "l4PYYLLYCqaZfIW1wKROoAvcyFG3",
+      "language": "es",
+      "name": "Wilson Alfaro Badilla",
+      "themeAccent": "225 85% 45%",
+      "role": "admin",
+      "themeName": "Nitro Classic (Blue Focus)",
+      "phone": "+50687992560",
+      "hasSeenWelcomeModal": true,
+      "isEditMode": true
+    }
+  },
+  "whatsapp_templates": {
+    "facebookPost": {
+      "label_es": "Invitación para Redes Sociales",
+      "message_en": "🚛 Power up your kitchen with **Nitro Gas Costa Rica GLP**! 🔥✨\n\nWe've launched our new interactive platform to make your gas refills faster and safer than ever.\n\n✨ **What's new?**\n\n🤑 **Exclusive Deals:** Access discounts on cylinders and regulators.\n\n🗓️ **Order Tracking:** Monitor your refill history and scheduled maintenance.\n\n🤖 **AI Gas Expert:** Smell a leak? Our AI assistant provides immediate safety guidance and efficiency tips.\n\nYour next safe refill is just a click away! 👇\n\n🔗 **Visit us:** https://nitrogascr.com",
+      "message_es": "🚛 ¡Dale potencia a tu cocina con **Nitro Gas Costa Rica GLP**! 🔥✨\n\nHemos lanzado nuestra nueva plataforma interactiva para que pedir tu gas sea más rápido y seguro que nunca.\n\n✨ **¿Qué puedes hacer?**\n\n🤑 **Ofertas Exclusivas:** Accede a descuentos en cilindros y reguladores.\n\n🗓️ **Gestión de Pedidos:** Lleva el control de tus recargas y mantenimientos programados.\n\n🤖 **Experto en Gas IA:** ¿Hueles a gas? Nuestro asistente de IA te da guía de seguridad inmediata y tips de ahorro.\n\n¡Tu próxima recarga segura está a un clic de distancia! 👇\n\n🔗 **Visítanos:** https://nitrogascr.com",
+      "id": "facebookPost",
+      "label_en": "Social Media Invitation"
+    },
+    "guestRegistration": {
+      "label_en": "Order & Delivery Details",
+      "message_es": "Hola wilson Alfaro, Para coordinar tu entrega o servicio técnico, necesitamos que confirmes los detalles específicos de tu instalación o recarga.\n\n✅ Una vez confirmado, nuestro repartidor Nitro irá en camino 🚛.\n\n👉 Revisa tu historial de pedidos aquí: {guestManagementUrl}",
+      "id": "guestRegistration",
+      "label_es": "Detalles de Pedido y Entrega",
+      "message_en": "Hello {name}, To coordinate your delivery or technical service, we need you to confirm the specific details of your installation or refill.\n\n✅ Once confirmed, our Nitro driver will be on their way 🚛.\n\n👉 View your order history here: {guestManagementUrl}"
+    },
+    "manualInvitation": {
+      "message_en": "Hello {name}, 👋 welcome to Nitro Gas Costa Rica GLP 🔥✨\n\n🚀 We're excited to serve you. To ensure a safe and efficient gas usage, we've prepared a Safety Manual with everything you need to know about our cylinders, installation, and technical support:\n\n📖 Safety Manual: https://nitrogascr.com/guest-manual\n\nFast and safe energy at your door! 🚛💨",
+      "label_es": "Bienvenida y Manual de Seguridad",
+      "id": "manualInvitation",
+      "message_es": "Hola {name}, 👋 bienvenidos a Nitro Gas Costa Rica GLP 🔥✨\n\n🚀 Estamos listos para atenderte. Para garantizar un uso seguro y eficiente de tu gas, hemos preparado un Manual de Seguridad con todo lo que necesitas saber sobre nuestros cilindros, instalaciones y soporte técnico:\n\n📖 Manual de Seguridad: https://nitrogascr.com/guest-manual\n\n¡Energía rápida y segura en tu puerta! 🚛💨",
+      "label_en": "Client Welcome & Safety Manual"
+    },
+    "presalePromotion": {
+      "id": "presalePromotion",
+      "message_es": "Hola {name}, gracias por tu interés en ${BASE_Title1}. Te invitamos a explorar nuestros servicios y ofertas vigentes aquí: ${BASE_URL}/#services. ¡Estamos listos para servirte!",
+      "label_en": "Inquiry - Gas Services",
+      "message_en": "Hello {name}, thank you for your interest in ${BASE_Title1}. We invite you to explore our services and current offers here: ${BASE_URL}/#services. We are ready to serve you!",
+      "label_es": "Consulta - Servicios de Gas"
+    },
+    "pricingInfo": {
+      "message_en": "Hello {name}, here are our current reference prices for Nitro Gas: {pricingDetails} \n\nYou can request a formal refill or check availability here: {bookingUrl}",
+      "label_es": "Información de Precios GLP",
+      "id": "pricingInfo",
+      "message_es": "¡Hola {name}! Aquí tienes nuestros precios de referencia para Nitro Gas: {pricingDetails} \n\nPuedes solicitar una recarga formal o revisar disponibilidad aquí: {bookingUrl}",
+      "label_en": "LPG Service Pricing"
+    },
+    "promotion": {
+      "message_es": "¡Hola {name}! Tenemos una oferta especial para tu próxima recarga: {promotionDetails}. ¡No pierdas la oportunidad de ahorrar con Nitro! \n\nDetalles aquí: {bookingUrl} \nO únete a nuestra comunidad para tips de seguridad: https://wa.me/50688277695",
+      "id": "promotion",
+      "label_en": "Special Nitro Deal",
+      "label_es": "Promoción Especial Nitro",
+      "message_en": "Hello {name}! We have a special offer for your next refill: {promotionDetails}. Don't miss out on this Nitro deal! \n\nDetails here: {bookingUrl} \nOr join our community for safety tips: https://wa.me/50688277695"
+    },
+    "testimonialRequest": {
+      "id": "testimonialRequest",
+      "message_es": "Hola {name}, ¡esperamos que estés satisfecho con tu recarga de ${BASE_Title1}! Nos encantaría conocer tu opinión sobre la rapidez y seguridad del servicio. Por favor, déjanos un testimonio aquí: ${BASE_URL}/#testimonials ¡Gracias por confiar en ${BASE_Title1}!",
+      "label_en": "Service Feedback & Review",
+      "message_en": "Hello {name}, we hope you are happy with your ${BASE_Title1} refill! We would love to hear your feedback on the delivery speed and safety. Please leave us a review here: ${BASE_URL}/#testimonials Thank you for trusting ${BASE_Title1}!",
+      "label_es": "Feedback y Reseña de Servicio"
+    }
+  },
+  "testimonials": {
+    "OCCdJkljS35bWGCVuXzZ": {
+      "userId": "ul5RkovB9DY8fhtQnroxBymwL8K2",
+      "createdAt": {
+        "seconds": 1772630026,
+        "nanoseconds": 54000000
+      },
+      "source": "website",
+      "rating": 5,
+      "userPhotoURL": "https://lh3.googleusercontent.com/a/ACg8ocLLlcPcvA2-iax3Qq2zlGuV-Ydc3CZ1Hl8zWQjMTPcooIKoRv4U=s96-c",
+      "userName": "wilson Alfaro",
+      "text": "Quiero destacar la puntualidad excepcional de su equipo. Es realmente reconfortante saber que podemos contar con un servicio de entrega tan eficiente y a tiempo, lo que facilita mucho nuestro día a día.",
+      "visible": true,
+      "featured": false
+    }
+  }
+}
