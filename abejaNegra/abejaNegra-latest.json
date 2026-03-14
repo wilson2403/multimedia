@@ -1,7 +1,43 @@
 {
   "settings": {
     "backup": {
-      "lastBackupDate": "2026-03-13"
+      "lastBackupDate": "2026-03-14",
+      "backupHour": 3,
+      "backupLimit": 100
+    },
+    "signup": {
+      "defaultCurrency": "CRC",
+      "defaultCountry": "CR"
+    },
+    "theme": {
+      "primary": "25 55% 48%",
+      "accent": "35 65% 50%",
+      "background": "25 30% 97%",
+      "name": "Arcilla Natural",
+      "type": "light"
+    }
+  },
+  "users": {
+    "wilson2403@hotmail.com": {
+      "themeAccent": "38 95% 55%",
+      "themePrimary": "42 85% 52%",
+      "hasSeenWelcomeModal": true,
+      "fcmTokens": [
+        "ejH3d5Yb6E_5bXFiA-gISz:APA91bFDDZcFCHUvMgilyCwOfX3jhdmPRSXC4lSYjuRmiauLww_vhOvEHeLOIiYOgcZPri9TPJn_HkhJKIlxxGuU037K49H1IePvgO_jwurmI4M8AJz5Kpg",
+        "ejH3d5Yb6E_5bXFiA-gISz:APA91bHnx9e12o_0ZTOIQnxvpIb7shWQkXquNfufNU1NgOLFMT7p9QbeoWDEtLrxA8giWsn_F3k2tbhihiisWpCocI7cFz8vDizp39MIQxStaNj5vd7yfBg",
+        "ejH3d5Yb6E_5bXFiA-gISz:APA91bHgGsG9qM3kYXEXNdUuao_5RBMHoGnAyUvcV-P4n9d0eXUOP4MyGXpblZ96oIbTwByfV1t6fUcJRlIrXKet_U5v6yrVYUoPpQzK-vjUkge2Rv6nAWk"
+      ],
+      "name": "",
+      "theme": "light",
+      "isEditMode": true,
+      "themeBackground": "40 35% 98%",
+      "language": "es",
+      "uid": "THfRL2pTPLN5ElwYChhi13rKAm92",
+      "email": "wilson2403@hotmail.com",
+      "role": "admin",
+      "superUser": false,
+      "phone": "",
+      "themeName": "Miel Viva"
     }
   }
 }
