@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+        <defs>
+          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:hsl(120 39% 49%);stop-opacity:1" />
+            <stop offset="100%" style="stop-color:hsl(90 50% 60%);stop-opacity:1" />
+          </linearGradient>
+          <filter id="shadow">
+            <feDropShadow dx="0" dy="10" stdDeviation="15" flood-opacity="0.3"/>
+          </filter>
+        </defs>
+        
+        {/* HSL Brand Background */}
+        <rect width="100%" height="100%" fill="hsl(220 20% 11%)" />
+        
+        {/* Dynamic Glowing Brand Accents */}
+        <circle cx="400" cy="300" r="180" fill="url(#grad)" opacity="0.12" filter="url(#shadow)" />
+        <circle cx="150" cy="150" r="100" fill="hsl(120 39% 49%)" opacity="0.08" />
+        <circle cx="650" cy="450" r="120" fill="hsl(90 50% 60%)" opacity="0.08" />
+        
+        <rect x="100" y="80" width="600" height="440" rx="30" fill="#ffffff" opacity="0.08" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1" filter="url(#shadow)" />
+        
+        <circle cx="400" cy="130" r="25" fill="#ffffff" opacity="0.1" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.5" />
+           <path d="M400 118 L403 125 L410 128 L403 131 L400 138 L397 131 L390 128 L397 125 Z" fill="#ffffff" />
+        
+        <text x="50%" y="195" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="900" fill="#ffffff" letter-spacing="3">PROPUESTA CREATIVA IA</text>
+        <text x="50%" y="225" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="black" fill="#ffffff" opacity="0.5" letter-spacing="4">DISEÑO DE CAMPAÑA INTELIGENTE</text>
+        <line x1="250" y1="245" x2="550" y2="245" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1.5" />
+        
+        <text x="50%" y="280" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="semibold" fill="#ffffff" opacity="0.85">Un video dinámico de 8 segundos. Inicia con</text>
+<text x="50%" y="306" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="semibold" fill="#ffffff" opacity="0.85">una persona de negocios (hombre o mujer,</text>
+<text x="50%" y="332" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="semibold" fill="#ffffff" opacity="0.85">30-45 años, aspecto profesional) con</text>
+<text x="50%" y="358" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="semibold" fill="#ffffff" opacity="0.85">expresión preocupada mirando una pantalla con</text>
+<text x="50%" y="384" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="semibold" fill="#ffffff" opacity="0.85">símbolos de interrogación animados flotando.</text>
+<text x="50%" y="410" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="semibold" fill="#ffffff" opacity="0.85">Rápidamente, la escena cambia a la misma</text>
+<text x="50%" y="436" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="semibold" fill="#ffffff" opacity="0.85">persona con una sonrisa de alivio y</text>
+<text x="50%" y="462" dominant-baseline="middle" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="semibold" fill="#ffffff" opacity="0.85">confianza, sentada cómodamente en un</text>
+        
+        <rect x="300" y="495" width="200" height="3" rx="1.5" fill="#ffffff" opacity="0.2" />
+      </svg>
