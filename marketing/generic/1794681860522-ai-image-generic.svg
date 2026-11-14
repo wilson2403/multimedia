@@ -1,0 +1,82 @@
+<svg width="100%" height="100%" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="hsl(222,47%,15%)"/>
+      <stop offset="100%" stop-color="hsl(222,47%,8%)"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="hsl(262,83%,58%)" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="hsl(263,70%,50%)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <clipPath id="phoneClip">
+      <rect x="0" y="0" width="240" height="460" rx="30" ry="30"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+
+  <!-- Soft glowing accent circles -->
+  <circle cx="150" cy="120" r="80" fill="url(#glow)" filter="url(#blur)"/>
+  <circle cx="650" cy="480" r="100" fill="url(#glow)" filter="url(#blur)"/>
+
+  <!-- Main Headline -->
+  <text x="400" y="120" text-anchor="middle" font-family="Montserrat,Arial,Helvetica,sans-serif"
+        font-size="48" font-weight="800" fill="hsl(262,83%,58%)" letter-spacing="1.5">
+    Software de Crea Tu App
+  </text>
+
+  <!-- Phone Mockup -->
+  <g transform="translate(280,100)">
+    <!-- Phone body -->
+    <rect width="240" height="460" rx="30" ry="30" fill="hsl(222,47%,20%)" stroke="hsl(222,47%,30%)" stroke-width="2"/>
+    <!-- Screen -->
+    <g clip-path="url(#phoneClip)">
+      <rect x="10" y="40" width="220" height="380" rx="20" ry="20" fill="hsl(222,47%,12%)"/>
+      <!-- Top status bar -->
+      <rect x="10" y="40" width="220" height="30" fill="hsl(222,47%,18%)"/>
+      <!-- App icons grid -->
+      <g fill="hsl(262,83%,58%)">
+        <circle cx="55" cy="100" r="20"/>
+        <circle cx="130" cy="100" r="20"/>
+        <circle cx="205" cy="100" r="20"/>
+        <circle cx="55" cy="170" r="20"/>
+        <circle cx="130" cy="170" r="20"/>
+        <circle cx="205" cy="170" r="20"/>
+        <circle cx="55" cy="240" r="20"/>
+        <circle cx="130" cy="240" r="20"/>
+        <circle cx="205" cy="240" r="20"/>
+      </g>
+      <!-- Code snippet overlay -->
+      <text x="30" y="340" font-family="Courier New,monospace" font-size="20" fill="hsl(263,70%,50%)">
+        { &lt;app&gt; }
+      </text>
+      <text x="30" y="370" font-family="Courier New,monospace" font-size="20" fill="hsl(263,70%,50%)">
+        build()
+      </text>
+    </g>
+    <!-- Phone shadow -->
+    <ellipse cx="120" cy="470" rx="100" ry="12" fill="rgba(0,0,0,0.2)"/>
+  </g>
+
+  <!-- Rising chart line -->
+  <polyline points="100,500 200,430 300,460 400,380 500,420 600,340 700,380"
+            fill="none" stroke="hsl(263,70%,50%)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="100" cy="500" r="8" fill="hsl(262,83%,58%)"/>
+  <circle cx="200" cy="430" r="8" fill="hsl(262,83%,58%)"/>
+  <circle cx="300" cy="460" r="8" fill="hsl(262,83%,58%)"/>
+  <circle cx="400" cy="380" r="8" fill="hsl(262,83%,58%)"/>
+  <circle cx="500" cy="420" r="8" fill="hsl(262,83%,58%)"/>
+  <circle cx="600" cy="340" r="8" fill="hsl(262,83%,58%)"/>
+  <circle cx="700" cy="380" r="8" fill="hsl(262,83%,58%)"/>
+
+  <!-- Call‑to‑action button -->
+  <g transform="translate(300,520)">
+    <rect width="200" height="60" rx="30" ry="30" fill="hsl(262,83%,58%)"/>
+    <text x="100" y="38" text-anchor="middle" font-family="Montserrat,Arial,Helvetica,sans-serif"
+          font-size="24" font-weight="600" fill="#fff">Empieza Ahora</text>
+  </g>
+</svg>
